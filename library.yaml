@@ -1,0 +1,992 @@
+# Reading library — master index (generated from Google Calendar export)
+books:
+  - title: "The Island of Dr. Moreau"
+    author: ["H.G. Wells"]
+    dates_read: [2005-12-27]
+    language: en
+    domains: [sci-fi, classics]
+    has_review: false
+  - title: "A Sound of Thunder"
+    author: ["Ray Bradbury"]
+    dates_read: [2006-01-02]
+    language: en
+    domains: [sci-fi]
+    has_review: false
+  - title: "The Invisible Man"
+    author: ["H.G. Wells"]
+    dates_read: [2006-01-05]
+    language: en
+    domains: [sci-fi, classics]
+    has_review: false
+  - title: "The Great Gatsby"
+    author: ["F. Scott Fitzgerald"]
+    dates_read: [2006-01-28, 2012-07-19]
+    language: en
+    domains: [classics, fiction]
+    has_review: true
+  - title: "Lolita"
+    author: ["Vladimir Nabokov"]
+    dates_read: [2006-02-19]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "The Dragons of Eden"
+    author: ["Carl Sagan"]
+    dates_read: [2006-03-26]
+    language: en
+    domains: [science]
+    has_review: false
+  - title: "Green Mars"
+    author: ["Kim Stanley Robinson"]
+    dates_read: [2006-04-10]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "Blue Mars"
+    author: ["Kim Stanley Robinson"]
+    dates_read: [2006-05-28]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "Utopia"
+    author: ["Sir Thomas More"]
+    dates_read: [2006-06-05]
+    language: en
+    domains: [philosophy, classics]
+    has_review: true
+  - title: "Reminiscences of a Stock Operator"
+    author: ["Edwin Lefevre"]
+    dates_read: [2006-06-21]
+    language: en
+    domains: [finance, classics]
+    has_review: true
+  - title: "The Sun also Rises"
+    author: ["Ernest Hemingway"]
+    dates_read: [2006-10-07]
+    language: en
+    domains: [fiction, classics]
+    has_review: false
+  - title: "American Psycho"
+    author: ["Bret Easton Ellis"]
+    dates_read: [2007-01-07]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "The Demon-Haunted World"
+    author: ["Carl Sagan"]
+    dates_read: [2007-02-04]
+    language: en
+    domains: [science]
+    has_review: false
+  - title: "Catch-22"
+    author: ["Joseph Heller"]
+    dates_read: [2007-03-11]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "Unweaving the Rainbow"
+    author: ["Richard Dawkins"]
+    dates_read: [2007-03-27]
+    language: en
+    domains: [science]
+    has_review: false
+  - title: "Stranger in a Strange Land"
+    author: ["Robert A. Heinlein"]
+    dates_read: [2007-04-16]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "The Moon is a Harsh Mistress"
+    author: ["Robert A. Heinlein"]
+    dates_read: [2007-05-01]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "The End of Faith"
+    author: ["Sam Harris"]
+    dates_read: [2007-05-09]
+    language: en
+    domains: [science, philosophy]
+    has_review: true
+  - title: "The God Delusion"
+    author: ["Richard Dawkins"]
+    dates_read: [2007-05-13]
+    language: en
+    domains: [science, philosophy]
+    has_review: true
+  - title: "The Sound and the Fury"
+    author: ["William Faulkner"]
+    dates_read: [2007-05-18]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "The Blind Watchmaker"
+    author: ["Richard Dawkins"]
+    dates_read: [2007-06-06]
+    language: en
+    domains: [science]
+    has_review: true
+  - title: "We the Living"
+    author: ["Ayn Rand"]
+    dates_read: [2007-06-12]
+    language: en
+    domains: [fiction]
+    has_review: true
+  - title: "The Story of My Life"
+    author: ["Giacomo Casanova"]
+    dates_read: [2007-07-28]
+    language: en
+    domains: [biography, classics]
+    has_review: true
+  - title: "Rights of Man"
+    author: ["Thomas Paine"]
+    dates_read: [2007-08-05]
+    language: en
+    domains: [philosophy, politics, classics]
+    has_review: true
+  - title: "A Farewell to Arms"
+    author: ["Ernest Hemingway"]
+    dates_read: [2007-10-10]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "Extraordinary Popular Delusions"
+    author: ["Charles Mackay"]
+    dates_read: [2007-11-10]
+    language: en
+    domains: [finance, psychology, classics]
+    has_review: true
+  - title: "A Passage to India"
+    author: ["E. M. Forster"]
+    dates_read: [2007-12-28]
+    language: en
+    domains: [fiction, classics]
+    has_review: false
+  - title: "Letters to a Young Contrarian"
+    author: ["Christopher Hitchens"]
+    dates_read: [2008-01-05]
+    language: en
+    domains: [politics, philosophy]
+    has_review: true
+  - title: "The Picture of Dorian Gray"
+    author: ["Oscar Wilde"]
+    dates_read: [2008-01-21]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "The Secret Agent"
+    author: ["Joseph Conrad"]
+    dates_read: [2008-03-10]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "Byron: Life and Legend"
+    author: ["Fiona MacCarthy"]
+    dates_read: [2008-04-15]
+    language: en
+    domains: [biography]
+    has_review: false
+  - title: "The Age of Reason"
+    author: ["Thomas Paine"]
+    dates_read: [2008-04-28]
+    language: en
+    domains: [philosophy, classics]
+    has_review: true
+  - title: "Candide"
+    author: ["Voltaire"]
+    dates_read: [2008-05-23]
+    language: en
+    domains: [fiction, philosophy, classics]
+    has_review: false
+  - title: "Life with Picasso"
+    author: ["Francoise Gilot"]
+    dates_read: [2008-07-28]
+    language: en
+    domains: [biography]
+    has_review: false
+  - title: "Essays"
+    author: ["George Orwell"]
+    dates_read: [2008-12-26]
+    language: en
+    domains: [politics, classics]
+    has_review: false
+  - title: "The Communist Manifesto"
+    author: ["Karl Marx", "Friedrich Engels"]
+    dates_read: [2009-01-01]
+    language: en
+    domains: [politics, philosophy, classics]
+    has_review: false
+  - title: "The Beautiful and the Damned"
+    author: ["F. Scott Fitzgerald"]
+    dates_read: [2009-03-24]
+    language: en
+    domains: [fiction, classics]
+    has_review: false
+  - title: "Do Androids Dream of Electric Sheep?"
+    author: ["Philip K. Dick"]
+    dates_read: [2009-04-15]
+    language: en
+    domains: [sci-fi]
+    has_review: false
+  - title: "The Hacker's Handbook"
+    author: ["Hugo Cornwall"]
+    dates_read: [2009-04-17]
+    language: en
+    domains: [technology]
+    has_review: true
+  - title: "The Hacker Crackdown"
+    author: ["Bruce Sterling"]
+    dates_read: [2009-05-06]
+    language: en
+    domains: [technology]
+    has_review: true
+  - title: "Ender's Game"
+    author: ["Orson Scott Card"]
+    dates_read: [2009-05-07]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "Neuromancer"
+    author: ["William Gibson"]
+    dates_read: [2009-07-29]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "Shoot the damn dog"
+    author: ["Sally Brampton"]
+    dates_read: [2009-11-17]
+    language: en
+    domains: [mental-health, biography]
+    has_review: true
+  - title: "Dune"
+    author: ["Frank Herbert"]
+    dates_read: [2010-01-26]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "The Importance of Being Earnest"
+    author: ["Oscar Wilde"]
+    dates_read: [2010-01-31]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "Jennifer Government"
+    author: ["Max Barry"]
+    dates_read: [2010-02-22]
+    language: en
+    domains: [sci-fi, fiction]
+    has_review: true
+  - title: "Rendezvous with Rama"
+    author: ["Arthur C. Clarke"]
+    dates_read: [2010-02-28]
+    language: en
+    domains: [sci-fi]
+    has_review: true
+  - title: "An unquiet mind"
+    author: ["Kay Redfield Jamison"]
+    dates_read: [2010-03-13]
+    language: en
+    domains: [mental-health, biography]
+    has_review: true
+  - title: "A brief history of anxiety"
+    author: ["Patricia Pearson"]
+    dates_read: [2010-03-28]
+    language: en
+    domains: [mental-health, psychology]
+    has_review: true
+  - title: "Tropic of Cancer"
+    author: ["Henry Miller"]
+    dates_read: [2010-04-14]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "Shakespeare"
+    author: ["Bill Bryson"]
+    dates_read: [2010-04-22]
+    language: en
+    domains: [biography, history]
+    has_review: true
+  - title: "The Match King"
+    author: ["Frank Partnoy"]
+    dates_read: [2010-05-06]
+    language: en
+    domains: [finance, history, biography]
+    has_review: true
+  - title: "The Lost City of Z"
+    author: ["David Grann"]
+    dates_read: [2010-05-31]
+    language: en
+    domains: [history]
+    has_review: true
+  - title: "Darkness Visible"
+    author: ["William Styron"]
+    dates_read: [2010-06-19]
+    language: en
+    domains: [mental-health, biography]
+    has_review: true
+  - title: "God is not great"
+    author: ["Christopher Hitchens"]
+    dates_read: [2010-06-27]
+    language: en
+    domains: [philosophy, politics]
+    has_review: true
+  - title: "Manic"
+    author: ["Terri Cheney"]
+    dates_read: [2010-07-12]
+    language: en
+    domains: [mental-health, biography]
+    has_review: true
+  - title: "Critical Chain"
+    author: ["Eliyahu M. Goldratt"]
+    dates_read: [2010-07-15]
+    language: en
+    domains: [management]
+    has_review: true
+  - title: "For Whom the Bell Tolls"
+    author: ["Ernest Hemingway"]
+    dates_read: [2010-10-03]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "McMafia"
+    author: ["Misha Glenny"]
+    dates_read: [2011-01-09]
+    language: en
+    domains: [geopolitics, crime]
+    has_review: true
+  - title: "A Single Man"
+    author: ["Christopher Isherwood"]
+    dates_read: [2011-01-16]
+    language: en
+    domains: [fiction]
+    has_review: true
+  - title: "The Leader Who Had No Title"
+    author: ["Robin Sharma"]
+    dates_read: [2011-01-31]
+    language: en
+    domains: [management, self-development]
+    has_review: true
+  - title: "Brilliant Time Management"
+    author: ["Mike Clayton"]
+    dates_read: [2011-02-19]
+    language: en
+    domains: [management, self-development]
+    has_review: true
+  - title: "Winning"
+    author: ["Jack Welch"]
+    dates_read: [2011-03-06]
+    language: en
+    domains: [management]
+    has_review: true
+  - title: "Freakonomics"
+    author: ["Steven Levitt", "Stephen Dubner"]
+    dates_read: [2011-05-25]
+    language: en
+    domains: [economics]
+    has_review: true
+  - title: "The Count of Monte Cristo"
+    author: ["Alexandre Dumas"]
+    dates_read: [2011-08-09]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "Elegance of the Hedgehog"
+    author: ["Muriel Barbery"]
+    dates_read: [2011-09-04]
+    language: en
+    domains: [fiction]
+    has_review: true
+  - title: "How to get what you want"
+    author: ["Richard Templar"]
+    dates_read: [2011-11-15]
+    language: en
+    domains: [self-development]
+    has_review: true
+  - title: "Brilliant Project Leader"
+    author: ["Mike Clayton"]
+    dates_read: [2011-12-20]
+    language: en
+    domains: [management]
+    has_review: true
+  - title: "Norwegian Wood"
+    author: ["Haruki Murakami"]
+    dates_read: [2012-02-19]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "The Stranger Beside Me"
+    author: ["Ann Rule"]
+    dates_read: [2012-04-06]
+    language: en
+    domains: [crime]
+    has_review: false
+  - title: "Strindbergs stjärna"
+    author: ["Jan Wallentin"]
+    dates_read: [2012-04-22]
+    language: sv
+    domains: [fiction]
+    has_review: true
+  - title: "Breakfast at Tiffany's"
+    author: ["Truman Capote"]
+    dates_read: [2012-05-16]
+    language: en
+    domains: [fiction, classics]
+    has_review: true
+  - title: "Get me out of here"
+    author: ["Rachel Reiland"]
+    dates_read: [2012-06-25]
+    language: en
+    domains: [mental-health, biography]
+    has_review: true
+  - title: "The Prague Cemetery"
+    author: ["Umberto Eco"]
+    dates_read: [2012-08-05]
+    language: en
+    domains: [fiction]
+    has_review: true
+  - title: "The Game"
+    author: ["Neil Strauss"]
+    dates_read: [2012-11-14]
+    language: en
+    domains: [psychology, biography]
+    has_review: true
+  - title: "50 Shades of Grey"
+    author: ["E.L. James"]
+    dates_read: [2012-12-17]
+    language: en
+    domains: [fiction]
+    has_review: true
+  - title: "The Monk Who Sold His Ferrari"
+    author: ["Robin Sharma"]
+    dates_read: [2012-12-25]
+    language: en
+    domains: [self-development]
+    has_review: false
+  - title: "Kniven i hjärtat"
+    author: ["Björn Ranelid"]
+    dates_read: [2013-01-05]
+    language: sv
+    domains: [fiction]
+    has_review: false
+  - title: "Tjetjenien"
+    author: []
+    dates_read: [2013-01-13]
+    language: sv
+    domains: [geopolitics, history]
+    has_review: false
+  - title: "Man's Search for Meaning"
+    author: ["Viktor Frankl"]
+    dates_read: [2013-02-24]
+    language: en
+    domains: [psychology, philosophy, biography]
+    has_review: false
+  - title: "The Salmon of Doubt"
+    author: ["Douglas Adams"]
+    dates_read: [2013-03-19]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "This is Lean"
+    author: ["Niklas Modig", "Pär Åhlström"]
+    dates_read: [2013-06-13]
+    language: en
+    domains: [management]
+    has_review: true
+  - title: "The Curious Incident of the Dog in the Night-Time"
+    author: ["Mark Haddon"]
+    dates_read: [2013-07-03]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Blind Willow, Sleeping Woman"
+    author: ["Haruki Murakami"]
+    dates_read: [2013-07-24]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Train Dreams"
+    author: ["Denis Johnson"]
+    dates_read: [2013-07-24, 2023-07-29]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "The Time Keeper"
+    author: ["Mitch Albom"]
+    dates_read: [2013-07-26]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Too Much Happiness"
+    author: ["Alice Munro"]
+    dates_read: [2013-07-28]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Diagnosens makt"
+    author: ["Gunilla Hallerstedt"]
+    dates_read: [2013-10-22]
+    language: sv
+    domains: [psychology, mental-health]
+    has_review: false
+  - title: "A Study in Scarlet"
+    author: ["Arthur Conan Doyle"]
+    dates_read: [2013-11-19]
+    language: en
+    domains: [fiction, crime, classics]
+    has_review: false
+  - title: "The Sign of the Four"
+    author: ["Arthur Conan Doyle"]
+    dates_read: [2013-12-11]
+    language: en
+    domains: [fiction, crime, classics]
+    has_review: false
+  - title: "Snow Crash"
+    author: ["Neal Stephenson"]
+    dates_read: [2014-07-23]
+    language: en
+    domains: [sci-fi]
+    has_review: false
+  - title: "The Snowden Files"
+    author: ["Luke Harding"]
+    dates_read: [2014-12-12]
+    language: en
+    domains: [technology, politics]
+    has_review: false
+  - title: "Harry Potter och De Vises Sten"
+    author: ["J. K. Rowling"]
+    dates_read: [2015-02-25]
+    language: sv
+    domains: [fiction]
+    has_review: false
+  - title: "The Center Cannot Hold"
+    author: ["Elyn R. Saks"]
+    dates_read: [2015-07-15]
+    language: en
+    domains: [mental-health, biography]
+    has_review: false
+  - title: "Madness: A bipolar life"
+    author: ["Marya Hornbacher"]
+    dates_read: [2015-10-23]
+    language: en
+    domains: [mental-health, biography]
+    has_review: false
+  - title: "The Art of Deception"
+    author: ["Kevin Mitnick"]
+    dates_read: [2015-12-02]
+    language: en
+    domains: [technology]
+    has_review: false
+  - title: "Confessions of an Economic Hit Man"
+    author: ["John Perkins"]
+    dates_read: [2016-01-24]
+    language: en
+    domains: [economics, geopolitics, biography]
+    has_review: false
+  - title: "Stoner"
+    author: ["John Williams"]
+    dates_read: [2016-04-27]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Steve Jobs"
+    author: ["Walter Isaacson"]
+    dates_read: [2016-05-05]
+    language: en
+    domains: [biography, technology]
+    has_review: false
+  - title: "The Imperfectionists"
+    author: ["Tom Rachman"]
+    dates_read: [2016-07-30]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Elon Musk"
+    author: ["Ashlee Vance"]
+    dates_read: [2016-08-01]
+    language: en
+    domains: [biography, technology]
+    has_review: false
+  - title: "Swimming with Sharks"
+    author: ["Joris Luyendijk"]
+    dates_read: [2016-10-12]
+    language: en
+    domains: [finance]
+    has_review: false
+  - title: "So You've Been Publicly Shamed"
+    author: ["Jon Ronson"]
+    dates_read: [2016-10-26]
+    language: en
+    domains: [psychology]
+    has_review: false
+  - title: "Sapiens: A Brief History of Humankind"
+    author: ["Yuval Noah Harari"]
+    dates_read: [2017-02-12]
+    language: en
+    domains: [history, science]
+    has_review: false
+  - title: "The President's Hat"
+    author: ["Antoine Laurain"]
+    dates_read: [2017-04-04]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "The Martian"
+    author: ["Andy Weir"]
+    dates_read: [2017-05-11]
+    language: en
+    domains: [sci-fi]
+    has_review: false
+  - title: "The almost nearly perfect people"
+    author: ["Michael Booth"]
+    dates_read: [2017-07-15]
+    language: en
+    domains: [history, geopolitics]
+    has_review: false
+  - title: "The Return"
+    author: ["Hisham Matar"]
+    dates_read: [2017-08-09]
+    language: en
+    domains: [biography]
+    has_review: false
+  - title: "Flashpoints"
+    author: ["George Friedman"]
+    dates_read: [2017-10-29]
+    language: en
+    domains: [geopolitics]
+    has_review: false
+  - title: "Extreme Ownership"
+    author: ["Jocko Willink", "Leif Babin"]
+    dates_read: [2018-01-15]
+    language: en
+    domains: [management]
+    has_review: false
+  - title: "Who Rules the World"
+    author: ["Noam Chomsky"]
+    dates_read: [2018-01-26]
+    language: en
+    domains: [politics, geopolitics]
+    has_review: false
+  - title: "The Shock Doctrine"
+    author: ["Naomi Klein"]
+    dates_read: [2018-03-15]
+    language: en
+    domains: [economics, politics]
+    has_review: false
+  - title: "Basket of Deplorables"
+    author: ["Tom Rachman"]
+    dates_read: [2018-03-17]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Iron Curtain"
+    author: ["Anne Applebaum"]
+    dates_read: [2018-05-28]
+    language: en
+    domains: [history, politics]
+    has_review: false
+  - title: "Hitch-22"
+    author: ["Christopher Hitchens"]
+    dates_read: [2018-07-15]
+    language: en
+    domains: [biography]
+    has_review: false
+  - title: "War on Peace"
+    author: ["Ronan Farrow"]
+    dates_read: [2018-08-09]
+    language: en
+    domains: [geopolitics]
+    has_review: false
+  - title: "Fascism: A Warning"
+    author: ["Madeleine Albright"]
+    dates_read: [2018-08-21]
+    language: en
+    domains: [politics, history]
+    has_review: false
+  - title: "In the Shadows of the American Century"
+    author: ["Alfred W. McCoy"]
+    dates_read: [2018-09-13]
+    language: en
+    domains: [geopolitics]
+    has_review: false
+  - title: "Reporter"
+    author: ["Seymour M. Hersh"]
+    dates_read: [2018-10-04]
+    language: en
+    domains: [biography, politics]
+    has_review: false
+  - title: "The Rise and Fall of Nations"
+    author: ["Ruchir Sharma"]
+    dates_read: [2018-10-06]
+    language: en
+    domains: [economics]
+    has_review: false
+  - title: "Who is Rich?"
+    author: ["Matthew Klam"]
+    dates_read: [2018-10-20]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "The World as it Is"
+    author: ["Ben Rhodes"]
+    dates_read: [2018-11-22]
+    language: en
+    domains: [biography, politics]
+    has_review: false
+  - title: "The New Silk Roads"
+    author: ["Peter Frankopan"]
+    dates_read: [2018-12-24]
+    language: en
+    domains: [geopolitics, history]
+    has_review: false
+  - title: "The Road to Unfreedom"
+    author: ["Timothy Snyder"]
+    dates_read: [2019-01-18]
+    language: en
+    domains: [politics, history]
+    has_review: false
+  - title: "Inglorious Empire"
+    author: ["Shashi Tharoor"]
+    dates_read: [2019-02-10]
+    language: en
+    domains: [history, politics]
+    has_review: false
+  - title: "The Looting Machine"
+    author: ["Tom Burgis"]
+    dates_read: [2019-03-10]
+    language: en
+    domains: [economics, geopolitics]
+    has_review: false
+  - title: "A History of the World in Seven Cheap Things"
+    author: ["Raj Patel", "Jason Moore"]
+    dates_read: [2019-04-07]
+    language: en
+    domains: [economics, history]
+    has_review: false
+  - title: "The Great Economists"
+    author: ["Linda Yueh"]
+    dates_read: [2019-06-22]
+    language: en
+    domains: [economics]
+    has_review: false
+  - title: "China’s Great Wall of Debt"
+    author: ["Dinny McMahon"]
+    dates_read: [2019-07-11]
+    language: en
+    domains: [economics, geopolitics]
+    has_review: false
+  - title: "Svälten"
+    author: ["Magnus Västerbro"]
+    dates_read: [2019-08-04]
+    language: sv
+    domains: [history]
+    has_review: false
+  - title: "Legacy of Ashes: The History of the CIA"
+    author: ["Tim Weiner"]
+    dates_read: [2019-11-21]
+    language: en
+    domains: [history, politics]
+    has_review: false
+  - title: "Moneyland"
+    author: ["Oliver Bullough"]
+    dates_read: [2020-02-27]
+    language: en
+    domains: [finance, crime, economics]
+    has_review: false
+  - title: "Why Nations Fail"
+    author: ["Daron Acemoglu", "James Robinson"]
+    dates_read: [2020-07-08]
+    language: en
+    domains: [economics]
+    has_review: false
+  - title: "Histories of Nations"
+    author: ["Peter Furtado (ed.)"]
+    dates_read: [2020-08-01]
+    language: en
+    domains: [history]
+    has_review: false
+  - title: "The Future is Asian"
+    author: ["Parag Khanna"]
+    dates_read: [2020-09-09]
+    language: en
+    domains: [geopolitics]
+    has_review: false
+  - title: "Pale Rider"
+    author: ["Laura Spinney"]
+    dates_read: [2020-11-05]
+    language: en
+    domains: [history, science]
+    has_review: false
+  - title: "Best of Brandão"
+    author: ["Henrik Jönsson"]
+    dates_read: [2021-01-09]
+    language: sv
+    domains: [geopolitics]
+    has_review: false
+  - title: "The Mosquito Coast"
+    author: ["Paul Theroux"]
+    dates_read: [2021-01-19]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "Där Solen Aldrig Går Ned"
+    author: ["Henrik Brandao Jönsson"]
+    dates_read: [2021-02-08]
+    language: sv
+    domains: [geopolitics]
+    has_review: false
+  - title: "Money and Tough Love, On Tour with the IMF"
+    author: ["Liaquat Ahamed"]
+    dates_read: [2021-02-28]
+    language: en
+    domains: [economics, finance]
+    has_review: false
+  - title: "Too Big to Fail"
+    author: ["Andrew Ross Sorkin"]
+    dates_read: [2021-07-24]
+    language: en
+    domains: [finance]
+    has_review: false
+  - title: "The Truth Machine"
+    author: ["Michael Casey", "Paul Vigna"]
+    dates_read: [2021-08-02]
+    language: en
+    domains: [technology, finance]
+    has_review: false
+  - title: "Lords of finance"
+    author: ["Liaquat Ahamed"]
+    dates_read: [2021-08-24]
+    language: en
+    domains: [finance, history, economics]
+    has_review: false
+  - title: "Blockchain Revolution"
+    author: ["Don Tapscott", "Alex Tapscott"]
+    dates_read: [2021-09-01]
+    language: en
+    domains: [technology, finance]
+    has_review: false
+  - title: "Ghost Wars"
+    author: ["Steve Coll"]
+    dates_read: [2021-12-26]
+    language: en
+    domains: [history, geopolitics]
+    has_review: false
+  - title: "Liar’s Poker"
+    author: ["Michael Lewis"]
+    dates_read: [2022-01-07]
+    language: en
+    domains: [finance]
+    has_review: false
+  - title: "The Smartest Guys in the Room"
+    author: ["Bethany McLean", "Peter Elkind"]
+    dates_read: [2022-03-25]
+    language: en
+    domains: [finance, crime]
+    has_review: false
+  - title: "Se Afrika"
+    author: ["Ngugi wa Thiong'o"]
+    dates_read: [2022-04-20]
+    language: sv
+    domains: [politics, geopolitics]
+    has_review: false
+  - title: "Billion Dollar Whale"
+    author: ["Tom Wright", "Bradley Hope"]
+    dates_read: [2022-07-03]
+    language: en
+    domains: [finance, crime]
+    has_review: false
+  - title: "The Future is History"
+    author: ["Masha Gessen"]
+    dates_read: [2022-07-23]
+    language: en
+    domains: [politics, history]
+    has_review: false
+  - title: "Men Without Women"
+    author: ["Haruki Murakami"]
+    dates_read: [2022-08-03]
+    language: en
+    domains: [fiction]
+    has_review: false
+  - title: "The Subtle Art of Not Giving a Fuck"
+    author: ["Mark Manson"]
+    dates_read: [2023-02-09]
+    language: en
+    domains: [self-development]
+    has_review: false
+  - title: "Flash Boys"
+    author: ["Michael Lewis"]
+    dates_read: [2023-04-13]
+    language: en
+    domains: [finance]
+    has_review: false
+  - title: "The Lives of the Stoics"
+    author: ["Ryan Holiday", "Stephen Hanselman"]
+    dates_read: [2023-06-13]
+    language: en
+    domains: [philosophy]
+    has_review: false
+  - title: "Order out of chaos"
+    author: ["Scott Walker"]
+    dates_read: [2023-06-29]
+    language: en
+    domains: [self-development, psychology]
+    has_review: false
+  - title: "Till Eftervärlden"
+    author: ["Marianne Molander Beyer"]
+    dates_read: [2023-07-16]
+    language: sv
+    domains: [history]
+    has_review: false
+  - title: "Flash Crash"
+    author: ["Liam Vaughan"]
+    dates_read: [2023-09-03]
+    language: en
+    domains: [finance, crime]
+    has_review: false
+  - title: "When Genius Failed"
+    author: ["Roger Lowenstein"]
+    dates_read: [2024-02-18]
+    language: en
+    domains: [finance]
+    has_review: false
+  - title: "Broken Money"
+    author: ["Lyn Alden"]
+    dates_read: [2024-07-09]
+    language: en
+    domains: [economics, finance, technology]
+    has_review: false
+  - title: "Tracers in the Dark"
+    author: ["Andy Greenberg"]
+    dates_read: [2024-11-07]
+    language: en
+    domains: [technology, crime]
+    has_review: false
+  - title: "Autocracy, Inc."
+    author: ["Anne Applebaum"]
+    dates_read: [2025-02-16]
+    language: en
+    domains: [politics, geopolitics]
+    has_review: false
+  - title: "Kungen"
+    author: ["Nostratien by Tony Samuelsson"]
+    dates_read: [2025-08-03]
+    language: sv
+    domains: [fiction]
+    has_review: false
+  - title: "The Old Man and the Sea"
+    author: ["Ernest Hemingway"]
+    dates_read: [2025-08-12]
+    language: en
+    domains: [fiction, classics]
+    has_review: false
+  - title: "The Storm Before the Storm"
+    author: ["Mike Duncan"]
+    dates_read: [2025-11-22]
+    language: en
+    domains: [history]
+    has_review: false
+  - title: "Going infinite"
+    author: ["Michael Lewis"]
+    dates_read: [2026-07-12]
+    language: en
+    domains: [finance, crime, technology]
+    has_review: false

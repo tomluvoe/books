@@ -1,0 +1,29 @@
+# History MOC
+
+21 books, chronological by date finished.
+
+- 2010 · [[Shakespeare]] — Bill Bryson
+- 2010 · [[The Match King]] — Frank Partnoy
+- 2010 · [[The Lost City of Z]] — David Grann
+- 2013 · [[Tjetjenien]] — Anna Politkovskaja
+- 2017 · [[Sapiens - A Brief History of Humankind]] — Yuval Noah Harari
+- 2017 · [[The almost nearly perfect people]] — Michael Booth
+- 2018 · [[Iron Curtain]] — Anne Applebaum
+- 2018 · [[Fascism - A Warning]] — Madeleine Albright
+- 2018 · [[The New Silk Roads]] — Peter Frankopan
+- 2019 · [[The Road to Unfreedom]] — Timothy Snyder
+- 2019 · [[Inglorious Empire]] — Shashi Tharoor
+- 2019 · [[A History of the World in Seven Cheap Things]] — Raj Patel, Jason Moore
+- 2019 · [[Svälten]] — Magnus Västerbro
+- 2019 · [[Legacy of Ashes - The History of the CIA]] — Tim Weiner
+- 2020 · [[Histories of Nations]] — Peter Furtado (ed.)
+- 2020 · [[Pale Rider]] — Laura Spinney
+- 2021 · [[Lords of finance]] — Liaquat Ahamed
+- 2021 · [[Ghost Wars]] — Steve Coll
+- 2022 · [[The Future is History]] — Masha Gessen
+- 2023 · [[Till Eftervärlden]] — Marianne Molander Beyer
+- 2025 · [[The Storm Before the Storm]] — Mike Duncan
+
+## Reading paths
+
+_Study plans and next-read recommendations go here._
