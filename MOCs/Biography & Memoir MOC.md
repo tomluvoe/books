@@ -24,6 +24,10 @@
 - 2018 · [[Reporter]] — Seymour M. Hersh
 - 2018 · [[The World as it Is]] — Ben Rhodes
 
+### Did not finish
+- [[The Downing Street Years]] — Margaret Thatcher *(~p. 540; enjoyed until repetitive)*
+- [[The Confessions]] — Jean-Jacques Rousseau *(roughly halfway; became slow)*
+
 ## Reading paths
 
 Pair regime/author lives with Path **A**. Full detail: [[Gaps and Study Paths]].

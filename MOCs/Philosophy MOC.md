@@ -14,6 +14,9 @@
 - 2013 · [[Man's Search for Meaning]] — Viktor Frankl
 - 2023 · [[The Lives of the Stoics]] — Ryan Holiday, Stephen Hanselman
 
+### Did not finish
+- [[The Confessions]] — Jean-Jacques Rousseau *(roughly halfway; became slow)*
+
 ## Reading paths
 
 Path **G** only if hungry for friction — no intro cheerleading. Full detail: [[Gaps and Study Paths]].

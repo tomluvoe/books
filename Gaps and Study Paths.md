@@ -425,6 +425,8 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 | Degree foundations | See [[Context]] |
 | AI day-job competence | Professional practice at expert level — not a reading gap |
 | Kahneman as open loop | **DNF** — closed |
+| Thatcher *Downing Street Years* | **DNF** ~p. 540 — enjoyed until repetitive; not a cold gap |
+| Rousseau *Confessions* | **DNF** ~halfway — slow; partial only |
 
 ---
 

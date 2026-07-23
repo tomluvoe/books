@@ -1,6 +1,6 @@
 # 📚 Dashboard
 
-**171 finished · 173 reads · 1 currently reading · ~1998–2026 · 59 with imported reviews**
+**171 finished · 173 reads · 1 currently reading · 4 DNF · ~1998–2026 · 59 with imported reviews**
 
 - [[Context]] — education, work/AI level, taste (challenge ≠ cheerleading), DNF  
 - [[Gaps and Study Paths]] — full gap map + study paths A–G

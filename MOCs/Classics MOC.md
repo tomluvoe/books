@@ -6,6 +6,7 @@
 - ~1998 · [[Röda rummet]] — August Strindberg *(approx.; pre-library)*
 - ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2005 · [[The Island of Dr. Moreau]] — H.G. Wells
+
 - 2006 · [[The Invisible Man]] — H.G. Wells
 - 2006 · [[The Great Gatsby]] — F. Scott Fitzgerald
 - 2006 · [[Lolita]] — Vladimir Nabokov
@@ -35,6 +36,9 @@
 - 2013 · [[The Sign of the Four]] — Arthur Conan Doyle
 - 2025 · [[The Old Man and the Sea]] — Ernest Hemingway
 - 2026 · [[Animal Farm]] — George Orwell
+
+### Did not finish
+- [[The Confessions]] — Jean-Jacques Rousseau *(roughly halfway; became slow)*
 
 ## Reading paths
 

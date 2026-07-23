@@ -76,6 +76,8 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 ## Did not finish (DNF) — do not re-recommend as gap-fills
 
 - **[[Thinking, Fast and Slow]]** (Kahneman) — started years ago; stopped by ~ch. 1; felt “stupid” / uncompelling. With a **bachelor in Psychology**, the pop dual-process framing is a poor leisure fit. See [[Gaps and Study Paths]] Path D for non-Kahneman alternatives only if the theme still matters.
+- **[[The Downing Street Years]]** (Thatcher) — nearly finished (~p. 540); **enjoyed a lot** until it felt repetitive. Strong partial read — not “never touched Thatcher.”
+- **[[The Confessions]]** (Rousseau) — roughly halfway; became slow. Partial classic exposure only.
 
 ## How agents should use this
 

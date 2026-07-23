@@ -24,6 +24,9 @@
 - 2023 · [[Till Eftervärlden]] — Marianne Molander Beyer
 - 2025 · [[The Storm Before the Storm]] — Mike Duncan
 
+### Did not finish
+- [[The Downing Street Years]] — Margaret Thatcher *(~p. 540; enjoyed until repetitive)*
+
 ## Reading paths
 
 Not econ-history surveys (degree). Optional deep spine (Cold War / WWII / Asia). Pair with Path **A**. Full detail: [[Gaps and Study Paths]].
