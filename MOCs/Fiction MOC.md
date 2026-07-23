@@ -1,7 +1,9 @@
 # Fiction MOC
 
-46 books, chronological by date finished.
+48 books, chronological by date finished.
 
+- ~1998 · [[The Trial]] — Franz Kafka *(approx.; high school)*
+- ~1998 · [[Röda rummet]] — August Strindberg *(approx.; pre-library)*
 - ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2006 · [[The Great Gatsby]] — F. Scott Fitzgerald
 - 2006 · [[Lolita]] — Vladimir Nabokov

@@ -66,6 +66,8 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 |------|--------|
 | [[Nineteen Eighty-Four]] (Orwell) | Read during studies, ~1999–2005; long before the calendar library. |
 | [[Relativity]] (Einstein) | Short popular exposition (*Relativity: The Special and the General Theory*); physics background. |
+| [[The Trial]] (Kafka) | High school; procedure-as-nightmare angle on Path F already closed. |
+| [[Röda rummet]] (Strindberg) | Confirmed read; Swedish classic (*The Red Room*). |
 
 ## Active / paused (not finished)
 

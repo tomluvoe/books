@@ -4,16 +4,16 @@ Master map of **vault leisure-reading gaps** and ordered **study paths**.
 Always read with [[Context]] (degrees, DNF, taste, AI practice level).
 
 **Last updated:** 2026-07-23  
-**Vault baseline:** ~169 finished · 171 reads · 1 reading · DNF noted in Context  
+**Vault baseline:** ~171 finished · 173 reads · 1 reading · DNF noted in Context  
 **This is not a syllabus for degrees.** Gaps = missing *logged leisure* that would still challenge you — not undergrad remediation.
 
 ### How paths are structured
 
 Each path has **steps**. At each step you **pick one book** from 2–4 options.  
-Every option has a **tilt** — what kind of mind / mood / argument you get if you choose it.
+Every option has an **angle** — what kind of mind / mood / argument you get if you choose it.
 
 - Do **one path at a time**; within a path, steps are ordered (A1 before A2) unless marked optional.
-- Tilts are not “difficulty levels for beginners.” They are **angles of attack**.
+- Angles are not “difficulty levels for beginners.” They are **directions of attack** — the intellectual cut you get if you pick that book.
 - If every option at a step feels like conference flattery, **skip the step** — the path is wrong for that week.
 
 ---
@@ -51,7 +51,7 @@ Every option has a **tilt** — what kind of mind / mood / argument you get if y
 
 ## Priority study paths (cross-domain)
 
-Pick a path. At each step, **choose one book by tilt**.
+Pick a path. At each step, **choose one book by angle**.
 
 ---
 
@@ -62,7 +62,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### A1 — First Russian novel (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Dostoevsky — *Demons* (*The Possessed*)** | **Ideological possession from the inside.** Revolutionaries as neurotic, ridiculous, and lethal. Closest novelistic match to “how movements eat people.” Long, heated, not tidy. |
 | **Dostoevsky — *The Brothers Karamazov*** | **Moral-theological pressure.** Freedom, guilt, the Grand Inquisitor — totalitarianism as spiritual problem, not only police problem. Broader and slower than *Demons*; less “cell meeting,” more “court of the soul.” |
@@ -70,23 +70,23 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### A2 — Witness / camp weight (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Solzhenitsyn — *The Gulag Archipelago* (abridged OK)** | **Indictment as structure.** System-as-machine; moral rage; documentary ambition. Sits *under* Applebaum as primary-ish scream. |
 | **Grossman — *Life and Fate*** | **War + totalitarianism as novel of society.** Soviet and Nazi systems in one canvas; humanist without being soft. Longer; more “War and Peace of the camps.” |
-| **Shalamov — *Kolyma Tales*** | **Anti-redemption.** Camp as meaning-destroyer; colder and less “heroic survivor” than Solzhenitsyn. Harshest tilt. |
+| **Shalamov — *Kolyma Tales*** | **Anti-redemption.** Camp as meaning-destroyer; colder and less “heroic survivor” than Solzhenitsyn. Harshest angle. |
 
 #### A3 — Theory under the journalism (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Arendt — *The Origins of Totalitarianism*** | **Full architecture.** Antisemitism, imperialism, total domination — slow, unflattering, not tweetable. Maximum theory payload under your 2018–25 binge. |
-| **Arendt — *Eichmann in Jerusalem*** | **Banality / procedure.** Shorter; evil as careerism and cliché. Tilts toward bureaucracy and language, not 19th-c roots. |
+| **Arendt — *Eichmann in Jerusalem*** | **Banality / procedure.** Shorter; evil as careerism and cliché. Angles toward bureaucracy and language, not 19th-c roots. |
 | **Koestler — *Darkness at Noon*** | **Show-trial psychology as novel.** Confession, logic of the Party, the intellectual who agrees to die. Theory in dramatic form; less scholarly than Arendt. |
 
 #### A4 — Optional second novel (only if A1–A3 landed)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Bulgakov — *The Master and Margarita*** | **Satire + metaphysics.** Stalinist Moscow as grotesque comedy; devil as critic. Lighter surface, serious undercurrent. |
 | **Pasternak — *Doctor Zhivago*** | **Private life crushed by History.** Lyric, romantic, anti-collectivist without being a tract. |
@@ -101,14 +101,14 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### B0 — Resolve Klein (pick one outcome)
 
-| Choice | Tilt / meaning |
+| Choice | Angle / meaning |
 |--------|----------------|
 | **Finish *This Changes Everything*** | Accept Klein’s **capitalism-vs-climate** frame as the spine you argue with later. |
 | **Honest DNF + one-line reason in the note** | Free the shelf; climate path continues without guilt. Marks that her register didn’t challenge productively. |
 
 #### B1 — Nonfiction next (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Smil — *How the World Really Works*** | **Anti-slogan systems.** Energy, food, materials — physics-compatible “you’re not serious about scale.” Shorter, punchier Smil. |
 | **Smil — *Energy and Civilization*** | **Long history of energy.** Deeper, denser, more historical; less op-ed. Best if you want a *book* not a briefing. |
@@ -116,7 +116,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### B2 — Fiction / scenario (pick one, optional)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **KSR — *The Ministry for the Future*** | **Governance SF.** Same mind as Mars; carbon, finance, violence, bureaucracy. Dense and argumentative — not cozy climate fiction. |
 | **Ballard — *The Drowned World*** (or similar colder climate imagination) | **Psychogeography of collapse.** Not policy; mood and mind under heat/water. Literary, not solutions. |
@@ -124,7 +124,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### B3 — Only if still hungry for political economy
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Mitchell — *Carbon Democracy*** | **Oil + democracy as linked machine.** Political theory of energy; not a solutions manual. |
 | **Stop** | Two solid climate books beat a solutions pile. |
@@ -139,7 +139,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### C1 — Power / political economy of tech (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Acemoglu & Johnson — *Power and Progress*** | **Who captures tech gains.** Economist-grade historical argument; tech is not automatically liberatory. Closest to your *Why Nations Fail* lineage. |
 | **Zuboff — *The Age of Surveillance Capitalism*** | **Extraction of behavior.** Platform political economy; longer and more rhetorical — drop if it lectures the already-convinced. |
@@ -147,7 +147,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### C2 — Technique as autonomous force (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Ellul — *The Technological Society*** | **Technique as total environment.** Cold, mid-century, anti-cheerleading by nature. No startup vocabulary. |
 | **Winner — *Autonomous Technology*** | **Artifacts have politics; systems drift.** More academic US political theory of tech than Ellul’s prophecy. |
@@ -155,7 +155,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### C3 — Contemporary critique (optional; high skip rate)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Crawford — *Atlas of AI*** | **Material supply chains of AI** (mines, labor, data). Grounded; less “alignment eschatology.” Skip if obvious from work. |
 | **Pasquale — *The Black Box Society*** | **Opacity + power** in algorithms/finance. More legal-institutional than mystical AI. |
@@ -163,7 +163,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### C4 — Fiction that doesn’t flatter builders (pick one, optional)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Lem — *Summa Technologiae* or *His Master’s Voice*** | **Epistemic humiliation.** Intelligence, contact, and not understanding — no hero engineer arc. |
 | **Banks — *Consider Phlebas* (or any early Culture)** | **Post-scarcity ambivalence.** Minds as gods; interventions that don’t feel righteous. |
@@ -177,22 +177,22 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### D1 — Decide if the theme is still open
 
-| Choice | Tilt / meaning |
+| Choice | Angle / meaning |
 |--------|----------------|
 | **Close the theme** | You already get behavioral material via markets narratives (Mackay, Lewis, crashes). No further book required. |
 | **Continue** | You want *challenge to confidence*, not a bias encyclopedia → D2. |
 
 #### D2 — If continuing (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Lewis — *The Undoing Project*** | **Human story of the research program.** Kahneman/Tversky as people; Lewis register you already like. Least “textbook.” |
-| **Tetlock — *Expert Political Judgment*** | **Experts are bad at this.** Harder, academic, ego-wounding. Maximum challenge tilt. |
+| **Tetlock — *Expert Political Judgment*** | **Experts are bad at this.** Harder, academic, ego-wounding. Maximum challenge angle. |
 | **Tetlock & Gardner — *Superforecasting*** | **Applied humility.** More practical and readable than *EPJ*; slightly more “method” than wound. |
 
 #### D3 — Optional adjacent
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Haidt — *The Righteous Mind*** | **Moral psychology → politics.** Why the other side isn’t just stupid; useful next to autocracy shelf. Can feel popular — drop if preachy. |
 | **Stay in market narratives** | Your existing finance shelf *is* the behavioral curriculum. |
@@ -206,15 +206,15 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### E1 — Crisis as system (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Tooze — *Crashed*** | **2008 as global political economy.** Dense, contemporary, state + bank + geopolitics. “Your crisis books were chapters; this is the map.” |
-| **Kindleberger — *Manias, Panics, and Crashes*** | **Pattern library across centuries.** Classic; comparative; less 2008-specific. Tilts toward recurring anatomy. |
+| **Kindleberger — *Manias, Panics, and Crashes*** | **Pattern library across centuries.** Classic; comparative; less 2008-specific. Angles toward recurring anatomy. |
 | **Ahamed — you already have *Lords of Finance*** | If 1929 is enough historical spine, prefer Tooze for modern system. |
 
 #### E2 — Theory under the stories (pick one, optional)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Minsky — *Can “It” Happen Again?* / selected essays** | **Instability is endogenous.** Hard link from narrative to framework; not bedtime reading. |
 | **Eichengreen — *Hall of Mirrors*** | **1929 vs 2008 comparison.** Historian-economist; less manifesto than Minsky. |
@@ -222,7 +222,7 @@ Pick a path. At each step, **choose one book by tilt**.
 
 #### E3 — Geo-finance (only if you want more extraction/power)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Extend from shelf:** Burgis, McMahon, Bullough already cover looting/offshore/China debt | Re-read or go deeper on **one** region rather than another airport globalisation book. |
 | **Tooze — *The Deluge* or similar** if you want war → money → order | Historical state power, not trading tips. |
@@ -235,23 +235,25 @@ Can combine with Path A (Russian steps overlap).
 
 #### F1 — Russian (if not doing full Path A)
 
-Same options and tilts as **A1** — pick there.
+Same options and angles as **A1** — pick there.
 
 #### F2 — Postwar European that resists comfort (pick one)
 
-| Book | Tilt if you choose it |
+*Already read (not options):* [[The Trial]] (Kafka, high school) — procedure-as-nightmare angle closed.
+
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Sebald — *Austerlitz* or *The Rings of Saturn*** | **Memory as haunted form.** Holocaust/aftermath without melodrama; prose as pressure. |
 | **Camus — *The Fall*** | **Confession as trap.** Moral self-accusation; short; anti-heroic. |
-| **Kafka — *The Trial*** | **Procedure as nightmare.** Bureaucracy you already hate in Catch-22 mode, colder and more metaphysical. |
+| **Mann — *Death in Venice* or *The Magic Mountain*** | **Decadence / sanatorium Europe.** Disease, desire, and bourgeois order under pressure — denser German modernism after Kafka. |
 
 #### F3 — SF after the Mars freeze (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Le Guin — *The Dispossessed*** | **Anarchist/physics utopia under stress.** Political thought experiment; not tech porn. |
 | **Lem — *Solaris*** | **Contact failure.** Science that doesn’t save understanding; epistemic humility. |
-| **Banks — Culture novel** | See **C4** tilt (post-scarcity ambivalence). |
+| **Banks — Culture novel** | See **C4** angle (post-scarcity ambivalence). |
 | **Cixin Liu — *The Three-Body Problem*** | **Cosmic sociology, dark forest.** Scale shock; different civilization logic. Can feel plot-heavy — keep if ideas hit. |
 
 ---
@@ -263,7 +265,7 @@ Vault ≈ New Atheism + pamphlets + Holiday Stoicism.
 
 #### G1 — Ancient primary (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Marcus Aurelius — *Meditations*** | **Private discipline under power.** Emperor’s notebook; not a life coach. |
 | **Epictetus — *Enchiridion* / *Discourses*** | **Harsher Stoic training.** Slave/teacher voice; more systematic than Marcus. |
@@ -271,7 +273,7 @@ Vault ≈ New Atheism + pamphlets + Holiday Stoicism.
 
 #### G2 — Modern anti-consensus (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Nietzsche — *On the Genealogy of Morals*** | **Morality as history of power.** Three essays; high density per page; anti-herd. |
 | **Camus — *The Myth of Sisyphus* (+ essays)** | **Absurd without religion.** Clear prose, hard conclusions; pairs with *The Fall* in F2. |
@@ -279,7 +281,7 @@ Vault ≈ New Atheism + pamphlets + Holiday Stoicism.
 
 #### G3 — Political philosophy under your Paine shelf (pick one)
 
-| Book | Tilt if you choose it |
+| Book | Angle if you choose it |
 |------|------------------------|
 | **Tocqueville — *Democracy in America* (selections OK)** | **Democracy’s soft despotism.** Sociology of equality; not a rights pamphlet. |
 | **Mill — *On Liberty*** | **Harm principle under pressure.** Classic liberal; sharper than Twitter liberalism. |
@@ -291,12 +293,12 @@ Vault ≈ New Atheism + pamphlets + Holiday Stoicism.
 
 | Path | Core question | First decision |
 |------|----------------|----------------|
-| **A** | What literature/theory bites after Applebaum/Snyder? | A1 tilt: possession vs soul-court vs compressed witness |
+| **A** | What literature/theory bites after Applebaum/Snyder? | A1 angle: possession vs soul-court vs compressed witness |
 | **B** | Climate without hopeium? | Finish/DNF Klein → Smil vs harder left history |
 | **C** | AI society without flattering builders? | Power & Progress vs skip to Ellul/Winner |
 | **D** | Judgment without TFAS? | Close theme vs Lewis narrative vs Tetlock wound |
 | **E** | System under crisis journalism? | Tooze map vs Kindleberger patterns |
-| **F** | Fiction that isn’t homework? | Russian / Sebald-Camus-Kafka / harder SF |
+| **F** | Fiction that isn’t homework? | Russian / Sebald-Camus-Mann / harder SF (*Trial* already read) |
 | **G** | Philosophy that frictions? | Stoic primary vs Nietzsche/Camus vs liberal theory |
 
 ---
@@ -310,7 +312,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Have (character) | Glaring leisure gaps | Study path |
 |------------------|----------------------|------------|
-| Modernist/mid-century Anglo; Hemingway ×4; *1984*, *Animal Farm* | Russian titans; thin 19th-c core as pleasure; little Latin American boom; little postwar European heavy; post-2018 literary pipeline thin | **Path A + F** |
+| Modernist/mid-century Anglo; Hemingway ×4; *1984*, *Animal Farm*; Kafka *Trial*; Strindberg *Röda rummet* | Russian titans; thin 19th-c core as pleasure; little Latin American boom; little *further* postwar European heavy (Kafka closed); post-2018 literary pipeline thin | **Path A + F** |
 
 ### Politics & Society (~20)
 
@@ -418,6 +420,8 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 | *Nineteen Eighty-Four* | Logged (approx. studies era) |
 | Orwell set | Essays + Animal Farm + 1984 |
 | Einstein popular relativity | Logged |
+| *The Trial* (Kafka) | High school — F2 procedure angle closed |
+| *Röda rummet* (Strindberg) | Logged (pre-library) |
 | Degree foundations | See [[Context]] |
 | AI day-job competence | Professional practice at expert level — not a reading gap |
 | Kahneman as open loop | **DNF** — closed |
@@ -436,7 +440,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 ### Suggested near-term stack (max friction per hour)
 
 1. **B0** — Resolve [[This Changes Everything]] (finish *or* DNF + one-line reason).  
-2. **A1** — Pick a Russian tilt: *Demons* (possession) vs *Karamazov* (soul-court) vs short witness (*Ivan Denisovich* / *Hadji Murat*).  
+2. **A1** — Pick a Russian angle: *Demons* (possession) vs *Karamazov* (soul-court) vs short witness (*Ivan Denisovich* / *Hadji Murat*).  
 3. **C** only if the itch is real — prefer **C2** (Ellul/Winner) if **C1** books feel basic; drop at first audience flattery.  
 4. Do **not** restart Kahneman (Path D default = close the theme).
 

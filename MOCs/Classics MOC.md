@@ -1,7 +1,9 @@
 # Classics MOC
 
-31 books, chronological by date finished.
+33 books, chronological by date finished.
 
+- ~1998 · [[The Trial]] — Franz Kafka *(approx.; high school)*
+- ~1998 · [[Röda rummet]] — August Strindberg *(approx.; pre-library)*
 - ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2005 · [[The Island of Dr. Moreau]] — H.G. Wells
 - 2006 · [[The Invisible Man]] — H.G. Wells
