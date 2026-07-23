@@ -22,4 +22,6 @@
 
 ## Reading paths
 
-_Study plans and next-read recommendations go here._
+Path **A** adjacent; IR/strategy only if adversarial not briefing-lite; **E** for geo-economy. Full detail: [[Gaps and Study Paths]].
+
+_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._

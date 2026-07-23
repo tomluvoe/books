@@ -14,4 +14,6 @@
 
 ## Reading paths
 
-_Study plans and next-read recommendations go here._
+Deep memoir cluster done ~2015; further clinical only if personal. Full detail: [[Gaps and Study Paths]].
+
+_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._

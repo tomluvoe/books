@@ -3,9 +3,10 @@
 Leisure reading log (originally **Books** Google Calendar, 2005–2026), plus retrospective backfills. **169 unique books, 171 reads, 59 imported reviews**. Plain Markdown + YAML frontmatter is the source of truth; `library.yaml` is a generated compact index (regenerate or edit either — just pick one master).
 
 ## Structure
-- `Context.md` — **reader profile**: degrees, what formal education already covers, series completion, pre-library caveats. Agents should read this before “gap” recommendations.
+- `Context.md` — **reader profile**: degrees, work/AI practice level, intellectual taste (challenge ≠ cheerleading), DNF, series completion. Agents must read this before recommending.
+- `Gaps and Study Paths.md` — **full domain gap map** + ordered paths (A–G). Source of truth for “what’s missing” and curricula.
 - `Books/` — one note per book. Frontmatter schema: `title, author[], dates_read[], language, domains[], rating, status, tags, source` (+ optional `date_precision: approximate`, `subtitle`, and after enrichment `year_published, isbn, pages`). Re-reads = multiple `dates_read`.
-- `MOCs/` — one Map of Content per domain (17 domains). Study plans and reading paths live here.
+- `MOCs/` — one Map of Content per domain (17 domains). Short path pointers live here; detail in `Gaps and Study Paths.md`.
 - `Dashboard.md` — stats + Dataview queries (requires the Dataview community plugin).
 - `library.yaml` — flat index for agents/scripts that don't want to walk the vault.
 - `scripts/enrich_openlibrary.py` — adds ISBN, publish year, page count, subjects from Open Library.
@@ -18,7 +19,7 @@ Leisure reading log (originally **Books** Google Calendar, 2005–2026), plus re
 
 ## AI workflows
 Drop this folder into a Claude Project (or point your agent framework at this vault). Useful skills to build, FinAgent-style:
-1. **Librarian** — answer "what did I think of X", find books by theme, dedupe against the vault before recommending; always consult `Context.md`.
-2. **Recommender** — reads `Context.md` + `library.yaml` + reviews, proposes next reads per MOC, appends to the MOC's "Reading paths" section. Avoid intro material in degree fields.
-3. **Curriculum builder** — given a target domain (e.g. monetary history), builds a sequenced study plan as a new MOC note, linking owned books and gap-filling with new ones — on top of degree foundations, not instead of them.
-4. **Logger** — on "finished X today", creates the note, updates `library.yaml`, prompts for a rating and review.
+1. **Librarian** — answer "what did I think of X", find books by theme, dedupe against the vault; always consult `Context.md` + `Gaps and Study Paths.md`.
+2. **Recommender** — reads Context + Gaps paths + `library.yaml` + reviews; proposes next step on an active path. **Challenge the reader; never cheerlead.** No intro material in degree fields; no practical AI books; no audience-flattery AI/society books.
+3. **Curriculum builder** — extend paths in `Gaps and Study Paths.md` or MOC pointers; build on degree + work foundations.
+4. **Logger** — on "finished X today", creates the note, updates `library.yaml`, prompts for a rating and review; update path checkboxes if relevant.

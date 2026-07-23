@@ -15,6 +15,6 @@
 
 ## Reading paths
 
-- Avoid pop dual-process primers (TFAS DNF). If judgment/decision comes up again: narrative (*The Undoing Project*), forecasting (Tetlock), moral psych (Haidt), or finance-adjacent behavioral stories — not another Kahneman survey.
+Path **D**. TFAS is **DNF** — do not re-recommend. Full detail: [[Gaps and Study Paths]].
 
-_Study plans and next-read recommendations go here._
+_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._

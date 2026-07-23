@@ -2,7 +2,8 @@
 
 **169 finished · 171 reads · 1 currently reading · ~2001–2026 · 59 with imported reviews**
 
-See also [[Context]] for education background and recommendation rules (degree foundations vs leisure log).
+- [[Context]] — education, work/AI level, taste (challenge ≠ cheerleading), DNF  
+- [[Gaps and Study Paths]] — full gap map + study paths A–G
 
 ## Currently reading
 
