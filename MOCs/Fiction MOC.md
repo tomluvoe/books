@@ -1,7 +1,8 @@
 # Fiction MOC
 
-45 books, chronological by date finished.
+46 books, chronological by date finished.
 
+- ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2006 · [[The Great Gatsby]] — F. Scott Fitzgerald
 - 2006 · [[Lolita]] — Vladimir Nabokov
 - 2006 · [[The Sun also Rises]] — Ernest Hemingway
@@ -50,4 +51,6 @@
 
 ## Reading paths
 
-_Study plans and next-read recommendations go here._
+Paths **A** (autocracy → Russian/theory lit), **F** (fiction gaps). Full detail: [[Gaps and Study Paths]].
+
+_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._

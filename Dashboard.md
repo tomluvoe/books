@@ -1,11 +1,34 @@
 # 📚 Dashboard
 
-**166 unique books · 168 reads · 2005–2026 · 59 with imported reviews**
+**169 finished · 171 reads · 1 currently reading · ~2001–2026 · 59 with imported reviews**
+
+- [[Context]] — education, work/AI level, taste (challenge ≠ cheerleading), DNF  
+- [[Gaps and Study Paths]] — full gap map + study paths A–G
+
+## Currently reading
+
+```dataview
+TABLE join(author, ", ") AS Author, join(domains, ", ") AS Domains
+FROM "Books"
+WHERE status = "reading"
+SORT file.name ASC
+```
+
+## Did not finish (DNF)
+
+```dataview
+TABLE join(author, ", ") AS Author, join(domains, ", ") AS Domains
+FROM "Books"
+WHERE status = "dnf" OR status = "paused"
+SORT file.name ASC
+```
 
 ## Books per year
 
+- ~2001: █ 1 *(approx. — Relativity)*
+- ~2002: █ 1 *(approx. — Nineteen Eighty-Four)*
 - 2005: █ 1
-- 2006: ██████████ 10
+- 2006: ███████████ 11
 - 2007: ████████████████ 16
 - 2008: ████████ 8
 - 2009: ████████ 8
@@ -39,4 +62,13 @@ SORT min(dates_read) DESC
 
 ```dataview
 LIST FROM "Books" WHERE !rating SORT file.name ASC
+```
+
+## Approximate dates (retrospective)
+
+```dataview
+TABLE dates_read AS "Approx finished", author AS Author
+FROM "Books"
+WHERE date_precision = "approximate"
+SORT min(dates_read) ASC
 ```

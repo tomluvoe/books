@@ -1,7 +1,8 @@
 # Politics & Society MOC
 
-19 books, chronological by date finished.
+20 books, chronological by date finished.
 
+- ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2007 · [[Rights of Man]] — Thomas Paine
 - 2008 · [[Letters to a Young Contrarian]] — Christopher Hitchens
 - 2008 · [[Essays]] — George Orwell
@@ -22,6 +23,11 @@
 - 2025 · [[Autocracy, Inc]] — Anne Applebaum
 - 2026 · [[Animal Farm]] — George Orwell
 
+### Currently reading
+- [[This Changes Everything]] — Naomi Klein *(in progress)*
+
 ## Reading paths
 
-_Study plans and next-read recommendations go here._
+Paths **A** (theory under autocracy binge), **B** (climate politics), **G**. Full detail: [[Gaps and Study Paths]].
+
+_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._

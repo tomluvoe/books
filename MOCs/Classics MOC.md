@@ -1,7 +1,8 @@
 # Classics MOC
 
-30 books, chronological by date finished.
+31 books, chronological by date finished.
 
+- ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2005 · [[The Island of Dr. Moreau]] — H.G. Wells
 - 2006 · [[The Invisible Man]] — H.G. Wells
 - 2006 · [[The Great Gatsby]] — F. Scott Fitzgerald
@@ -35,4 +36,6 @@
 
 ## Reading paths
 
-_Study plans and next-read recommendations go here._
+Paths **A**, **F**, **G** (philosophy primaries). Full detail: [[Gaps and Study Paths]].
+
+_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._

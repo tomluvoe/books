@@ -16,7 +16,8 @@ source: google-calendar
 
 **Author:** [[Kim Stanley Robinson]]  
 **Finished:** 2006-04-10  
-**Domains:** [[Science Fiction MOC|Science Fiction]]
+**Domains:** [[Science Fiction MOC|Science Fiction]]  
+**Series:** Mars trilogy — [[Red Mars]] → [[Green Mars]] → [[Blue Mars]] (**complete**)
 
 ## My review *(imported from calendar)*
 

@@ -1,6 +1,6 @@
 # Economics MOC
 
-13 books, chronological by date finished.
+13 books finished (+ 1 currently reading), chronological by date finished.
 
 - 2011 · [[Freakonomics]] — Steven Levitt, Stephen Dubner
 - 2016 · [[Confessions of an Economic Hit Man]] — John Perkins
@@ -16,6 +16,11 @@
 - 2021 · [[Lords of finance]] — Liaquat Ahamed
 - 2024 · [[Broken Money]] — Lyn Alden
 
+### Currently reading
+- [[This Changes Everything]] — Naomi Klein *(in progress; capitalism vs. the climate)*
+
 ## Reading paths
 
-_Study plans and next-read recommendations go here._
+Paths **B** (climate/Klein), **E**. Full detail: [[Gaps and Study Paths]].
+
+_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
