@@ -29,6 +29,9 @@
 
 ## Reading paths
 
-Core: **P**, **T**, **$**. Prefer structural/first-principles history over topic tours. Full detail: [[Gaps and Study Paths]].
+Core: **Path H — Historical order** (pick **one spine**: Rome, Cold War, WWII, Revolution, China, US, IR classics).  
+Also pairs with **P**, **T**, **$**.  
+You already have late Republic only ([[The Storm Before the Storm]]) — **H-Rome** continues that thread; Cold War shelf is *fragments* until a spine book.  
+Full detail: [[Gaps and Study Paths]].
 
 _See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._

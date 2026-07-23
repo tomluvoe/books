@@ -46,17 +46,18 @@ Every option has an **angle** — what kind of mind / mood / argument you get if
 4. **Technique & material constraint** — what binds the built world (energy, technique) — *not* “AI topic” or “climate topic.”
 5. **Money & instability** — system under crisis stories you already read.
 6. **Literature as primary knowledge** — novels that *are* the argument.
-7. Topic apps (climate, AI-society) only **after** the above, if still hungry.
+7. **Historical spines** — one deep arc of order/collapse (Rome, Cold War, …), not world-survey tourism.
+8. Topic apps (climate, AI-society) only **after** the above, if still hungry.
 
 ---
 
 ## Study paths — first principles core
 
-**Design rule:** A good path starts from **first principles** (what is power, knowledge, value, constraint, credit, form), not from **topics** (climate, AI, “current thing”).
+**Design rule:** A good path starts from **first principles** (what is power, knowledge, value, constraint, credit, form, **how orders rise and fall**), not from **topics** (climate, AI, “current thing”).
 
 | Layer | Paths | Role |
 |-------|--------|------|
-| **Core** | **P, K, M, T, $, L** | First knowledge — build these first |
+| **Core** | **P, K, M, T, $, L, H** | First knowledge — build these first |
 | **Applied** (optional) | **App-Climate, App-AI** | Downstream uses of T / $ / P — only after core itch is real |
 
 At each step, **pick one book by angle**.
@@ -236,6 +237,100 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 ---
 
+### Path H — Historical order (pick **one spine**, go deep)  
+*First principles of how polities rise, rigidify, and break — via long arcs, not topic tourism*
+
+*You have (thematic, not spines):* Sapiens; Iron Curtain / Snyder / Gessen; empire critique (Tharoor, silk roads, cheap things); Swedish famine; 1918 flu; *Lords of Finance*; CIA / Ghost Wars; **Mike Duncan *The Storm Before the Storm*** (late Roman Republic only); Thatcher DNF partial.  
+*Economic history degree:* covers survey industrialization/institutions — **not** a substitute for deep narrative spines as leisure.  
+**Rule:** Choose **one** spine below. Finish 2–3 serious books in that spine before starting another. No “history of everything” lists.
+
+#### H0 — Choose your spine (the real first decision)
+
+| Spine | First-principles question | What you already touch | Gap character |
+|-------|---------------------------|------------------------|---------------|
+| **H-Rome** | How does a republic become an empire / lose a republic? | Late Republic only (Duncan) | **Glare:** almost no Roman Empire, principals, or classical statecraft beyond that one book |
+| **H-Cold War** | How does bipolar order work and decay? | Iron Curtain, CIA, Ghost Wars, Snyder, Gessen, Albright — *fragments* | Need a **spine** (origins → crisis → end), not more fragments |
+| **H-WWII** | Industrial total war as political form | Fiction (*Catch-22*, Hemingway war); little as *history* | History of the war/systems, not only novels |
+| **H-Revolution** | How does revolution eat its children / re-found a state? | Paine, Manifesto, French-adjacent thin | French Revolution / 1917 as laboratory (pairs with Path P/L) |
+| **H-China** | Continuous state, rupture, and modern power | China debt, silk roads edges — not Chinese history | Deep civilizational/political history, not business briefing |
+| **H-US** | Constitutional order, conflict, empire at home | Thin as leisure despite US-centric finance/politics reading | Founding → Civil War → New Deal / rights — pick a sub-arc |
+| **H-IR classics** | Interstate power as permanent problem | Geopolitics journalism only | Thucydides / classical strategy as *argument*, not briefing lite |
+
+**Default recommendation if undecided:** **H-Rome** (you already started the republic’s death) or **H-Cold War** (extends the shelf you actually use).
+
+---
+
+#### H-Rome — Republic, empire, collapse (pick path inside spine)
+
+*Have:* [[The Storm Before the Storm]] (Duncan) — **late Republic crisis only**.
+
+| Step | Book options | Angle if you choose it |
+|------|----------------|------------------------|
+| **H-Rome-1** (extend the republic story) | **Duncan — *The Storm Before the Storm*** (re-read/notes) → then **Holland — *Rubicon*** **or** **Beard — *SPQR*** | **Holland:** narrative drive into Caesar’s generation. **Beard:** broader Roman self-understanding, less pure thriller. |
+| **H-Rome-2** (empire as system) | **Gibbon — *Decline and Fall* (abridged OK)** **or** **Heather — *The Fall of the Roman Empire*** **or** **Brown — *The World of Late Antiquity*** | **Gibbon:** classic moral-political narrative of decline (long). **Heather:** harder modern “barbarian/military” thesis. **Brown:** late antiquity *transformation*, not simple fall. |
+| **H-Rome-3** (statecraft primary) | **Tacitus — *Annals* (selections)** **or** **Polybius — *Histories* (on mixed constitution / Rome’s rise)** **or** **Syme — *The Roman Revolution*** | **Tacitus:** tyranny and tone under emperors. **Polybius:** constitutional first principles of rise. **Syme:** oligarchic revolution — cold, elite-power reading of Augustus. |
+| **Stop** | After 2 books in this spine | Depth > collecting emperors |
+
+---
+
+#### H-Cold War — Bipolar order (pick path inside spine)
+
+*Have fragments:* Iron Curtain, Legacy of Ashes, Ghost Wars, Road to Unfreedom, Future is History, Fascism: A Warning.
+
+| Step | Book options | Angle if you choose it |
+|------|----------------|------------------------|
+| **H-CW-1** (origins / whole arc) | **Gaddis — *The Cold War: A New History*** **or** **Westad — *The Global Cold War*** | **Gaddis:** compact strategic arc (US-centric). **Westad:** Third World as center — decolonizing Cold War. |
+| **H-CW-2** (Soviet endgame / ideology) | **Zubok — *A Failed Empire*** **or** **Service / Applebaum already partial → go Zubok or Plokhy *The Last Empire*** | How the Soviet order unraveled from inside — pairs with your Russia shelf. |
+| **H-CW-3** (optional deep one theater) | You already have **Ghost Wars** (Afghanistan) — go **Halberstam *The Best and the Brightest*** (Vietnam decision-making) **or** stop | **Halberstam:** epistemic failure of the best — pairs with Path K. |
+
+---
+
+#### H-WWII — Total war as history (not only fiction)
+
+| Step | Book options | Angle if you choose it |
+|------|----------------|------------------------|
+| **H-WW2-1** | **Tooze — *The Wages of Destruction*** **or** **Overy — *Why the Allies Won*** **or** **Beevor — *Stalingrad* / *Berlin*** | **Tooze:** Nazi political economy / war machine (first principles of resource war). **Overy:** structural why. **Beevor:** operational/human campaign narrative. |
+| **H-WW2-2** (optional) | **Hastings** or theater you care about — or **stop** | Don’t build a second war encyclopedia. |
+
+---
+
+#### H-Revolution — Refounding and terror
+
+| Step | Book options | Angle if you choose it |
+|------|----------------|------------------------|
+| **H-Rev-1** | **Schama — *Citizens*** **or** **McPhee / Doyle short French Rev** **or** **Trotsky *History of the Russian Revolution* (selections) / Figes *A People’s Tragedy*** | **Schama:** narrative French Revolution, culture + politics. **Figes:** Russian Revolution as tragedy of a society. Pairs hard with Path P/L. |
+| **H-Rev-2** | **Skip** or one theory: **Tocqueville — *The Old Regime and the Revolution*** | Revolution as *continuation* of centralization — first principles twist. |
+
+---
+
+#### H-China — Long state (not China-debt briefing)
+
+| Step | Book options | Angle if you choose it |
+|------|----------------|------------------------|
+| **H-China-1** | **Spence — *The Search for Modern China*** **or** **Mitter — *China’s War with Japan*** **or** **Dikötter — *Mao’s Great Famine* / *The Tragedy of Liberation*** | **Spence:** long modern arc. **Mitter:** WWII-in-Asia center. **Dikötter:** PRC founding violence — archival indictment. |
+| **H-China-2** | **Stop** after one serious arc unless obsessed | Avoid airport “China rising” stacks. |
+
+---
+
+#### H-US — Constitutional order & conflict
+
+| Step | Book options | Angle if you choose it |
+|------|----------------|------------------------|
+| **H-US-1** (pick a sub-arc) | **Bailyn / Wood (Founding)** **or** **McPherson *Battle Cry of Freedom* (Civil War)** **or** **Foner *Reconstruction*** **or** **Wilentz / one New Deal political history** | Don’t do all US history — pick **one** fracture (founding, union, reconstruction, or 20th-c state). |
+| **H-US-2** | **Stop** or one primary: **Federalist Papers (selections)** | Constitutional argument as first principles. |
+
+---
+
+#### H-IR classics — Interstate power as permanent problem
+
+| Step | Book options | Angle if you choose it |
+|------|----------------|------------------------|
+| **H-IR-1** | **Thucydides — *History of the Peloponnesian War* (Rex Warner or Landmark selections)** | **Fear, honor, interest** — the template; not a briefing. |
+| **H-IR-2** (optional) | **Clausewitz — *On War* (selections)** **or** **Mearsheimer — *The Tragedy of Great Power Politics*** | **Clausewitz:** war as politics. **Mearsheimer:** modern structural realism — clearer, more schematic. |
+| **Skip** | If Path P + journalism already saturates “power abroad” | |
+
+---
+
 ## Applied layer (optional — not core)
 
 Only after relevant **core** paths. These are **topics**, not first knowledge.
@@ -278,6 +373,7 @@ Only after relevant **core** paths. These are **topics**, not first knowledge.
 | **T — Technique & material constraint** | What binds the built world? | Smil scale vs Smil energy-history; then Ellul vs Winner vs Wiener |
 | **$ — Money & instability** | Why do financial systems blow up? | Kindleberger patterns vs Tooze system-map vs Minsky endogenous |
 | **L — Literature as primary knowledge** | Which forms teach what theory can’t? | Demons possession vs Karamazov soul-court; Sebald/Camus/Mann |
+| **H — Historical order** | How do polities rise and break? | **Pick one spine:** Rome / Cold War / WWII / Revolution / China / US / IR classics |
 
 ### Applied (optional)
 
@@ -297,6 +393,7 @@ Only after relevant **core** paths. These are **topics**, not first knowledge.
 | E (markets) | **$** |
 | F (fiction) | **L** |
 | G (philosophy) | **M** + part of **P1** |
+| (history spines, was only a domain note) | **H** |
 
 ---
 
@@ -327,7 +424,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Have | Gaps | Path |
 |------|------|------|
-| Late thematic (Sapiens, Iron Curtain, empire, flu, 1929 bankers, CIA, late republic) | Not econ-history surveys (degree). Missing leisure spines: full Cold War, WWII history, deep Asia, US political history, ancient/medieval | Pick **one** spine (e.g. Cold War) and go deep — no world-survey tourism |
+| Late thematic (Sapiens, Iron Curtain, empire, flu, 1929 bankers, CIA, late republic via Duncan) | Not econ-history surveys (degree). Missing **deep spines** — Rome beyond late Republic, full Cold War arc, WWII as history, revolution laboratory, China, US fracture arcs, IR primaries | **Path H** (one spine only) |
 
 ### Finance & Markets (~18)
 
@@ -431,7 +528,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Role | Action |
 |------|--------|
-| **You** | Prefer **core paths (P, K, M, T, $, L)** before any App-*; one path at a time |
+| **You** | Prefer **core paths (P, K, M, T, $, L, H)** before any App-*; one historical spine at a time |
 | **Librarian** | Answer “what’s missing?” from this file + Context; distinguish first principles vs topics |
 | **Recommender** | Propose next step on a **core** path unless user asks for applied; never cheerlead; never lead with climate/AI topics |
 | **Logger** | On finish, update book note + MOC; strike or check steps here if desired |
@@ -439,11 +536,12 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 ### Suggested near-term stack (first principles)
 
 1. **P1 or L1** — Power theory (Arendt/Berlin/Mill/Tocqueville) *or* Russian primary novel (*Demons* / *Karamazov*).  
-2. **T1 or T2** — Material constraint (Smil) *or* technique (Ellul/Winner/Wiener) — core, not “AI/climate news.”  
-3. **$1** when you want system under your finance stories (Kindleberger / Tooze / Minsky).  
-4. **Resolve Klein** only as open-loop hygiene (App-Climate), not as core study.  
-5. **App-AI: skip by default.**  
-6. Do **not** restart Kahneman (Path K: close or Tetlock/Lewis only).
+2. **H0** — Pick **one** historical spine (default lean: **H-Rome** to continue Duncan, or **H-Cold War** to unify fragments).  
+3. **T1 or T2** — Material constraint (Smil) *or* technique (Ellul/Winner/Wiener).  
+4. **$1** when you want system under finance stories (Kindleberger / Tooze / Minsky).  
+5. **Resolve Klein** only as open-loop hygiene (App-Climate), not as core study.  
+6. **App-AI: skip by default.**  
+7. Do **not** restart Kahneman (Path K: close or Tetlock/Lewis only).
 
 ---
 
@@ -454,7 +552,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 | [[Fiction MOC]] / [[Classics MOC]] | **L**, parts of **P** |
 | [[Politics & Society MOC]] | **P** (App-Climate optional) |
 | [[Geopolitics MOC]] | **P**, **$** |
-| [[History MOC]] | **P**, **T**, **$** |
+| [[History MOC]] | **H** (primary); also **P**, **T**, **$** |
 | [[Finance & Markets MOC]] / [[Economics MOC]] | **$** (App-Climate optional) |
 | [[Science Fiction MOC]] | **L3** |
 | [[Philosophy MOC]] | **M**, **P1** |
