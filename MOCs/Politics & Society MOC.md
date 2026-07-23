@@ -1,6 +1,6 @@
 # Politics & Society MOC
 
-18 books, chronological by date finished.
+19 books, chronological by date finished.
 
 - 2007 · [[Rights of Man]] — Thomas Paine
 - 2008 · [[Letters to a Young Contrarian]] — Christopher Hitchens
@@ -20,6 +20,7 @@
 - 2022 · [[Se Afrika]] — Ngugi wa Thiong'o
 - 2022 · [[The Future is History]] — Masha Gessen
 - 2025 · [[Autocracy, Inc]] — Anne Applebaum
+- 2026 · [[Animal Farm]] — George Orwell
 
 ## Reading paths
 

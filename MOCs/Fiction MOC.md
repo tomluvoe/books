@@ -1,6 +1,6 @@
 # Fiction MOC
 
-44 books, chronological by date finished.
+45 books, chronological by date finished.
 
 - 2006 · [[The Great Gatsby]] — F. Scott Fitzgerald
 - 2006 · [[Lolita]] — Vladimir Nabokov
@@ -46,6 +46,7 @@
 - 2022 · [[Men Without Women]] — Haruki Murakami
 - 2025 · [[Kungen]] — Nostratien by Tony Samuelsson
 - 2025 · [[The Old Man and the Sea]] — Ernest Hemingway
+- 2026 · [[Animal Farm]] — George Orwell
 
 ## Reading paths
 

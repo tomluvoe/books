@@ -990,3 +990,9 @@ books:
     language: en
     domains: [finance, crime, technology]
     has_review: false
+  - title: "Animal Farm"
+    author: ["George Orwell"]
+    dates_read: [2026-07-23]
+    language: en
+    domains: [fiction, classics, politics]
+    has_review: false
