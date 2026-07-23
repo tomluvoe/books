@@ -43,10 +43,13 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 | Books that risk being disliked | TED/exec-keynote energy; audience flattery |
 | Dark or structural implications | Hopeium, status-congruent “smart person” brand books |
 | Feeling talked *at* by a superior mind | Being congratulated for showing up |
+| **First principles** (power, knowledge, value, constraint, credit, form) | **Topic-first study** (climate, AI, “current thing”) as the *start* of a path |
+
+**Study preference (binding):** Good study starts from **first principles**, not applied topics. Climate and AI are **not** first principles — they are applications of energy, technique, power, capital. Core paths in [[Gaps and Study Paths]]: **P, K, M, T, $, L**. App-Climate / App-AI only after core (default skip App-AI).
 
 **Anecdote (binding):** At an executive-track AI conference, a speaker praising the audience for being there and clear-sighted was a **total turnoff**. That register of writing/talking is rejected in recommendations — especially on AI.
 
-**Heuristic for agents:** If a book would open a conference track for AI leaders with warmth and moral self-congratulation, do not recommend it.
+**Heuristic for agents:** If a book would open a conference track for AI leaders with warmth and moral self-congratulation, do not recommend it. Do not lead with climate or AI topic books.
 
 ## Reading-log caveats
 
@@ -66,7 +69,7 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 |------|--------|
 | [[Nineteen Eighty-Four]] (Orwell) | Read during studies, ~1999–2005; long before the calendar library. |
 | [[Relativity]] (Einstein) | Short popular exposition (*Relativity: The Special and the General Theory*); physics background. |
-| [[The Trial]] (Kafka) | High school; procedure-as-nightmare angle on Path F already closed. |
+| [[The Trial]] (Kafka) | High school; procedure-as-nightmare angle on Path L already closed. |
 | [[Röda rummet]] (Strindberg) | Confirmed read; Swedish classic (*The Red Room*). |
 
 ## Active / paused (not finished)
@@ -75,7 +78,7 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 
 ## Did not finish (DNF) — do not re-recommend as gap-fills
 
-- **[[Thinking, Fast and Slow]]** (Kahneman) — started years ago; stopped by ~ch. 1; felt “stupid” / uncompelling. With a **bachelor in Psychology**, the pop dual-process framing is a poor leisure fit. See [[Gaps and Study Paths]] Path D for non-Kahneman alternatives only if the theme still matters.
+- **[[Thinking, Fast and Slow]]** (Kahneman) — started years ago; stopped by ~ch. 1; felt “stupid” / uncompelling. With a **bachelor in Psychology**, the pop dual-process framing is a poor leisure fit. See [[Gaps and Study Paths]] Path **K** for non-Kahneman alternatives only if the theme still matters.
 - **[[The Downing Street Years]]** (Thatcher) — nearly finished (~p. 540); **enjoyed a lot** until it felt repetitive. Strong partial read — not “never touched Thatcher.”
 - **[[The Confessions]]** (Rousseau) — roughly halfway; became slow. Partial classic exposure only.
 
