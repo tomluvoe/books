@@ -83,5 +83,5 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 
 1. Read **this file** + **[[Gaps and Study Paths]]** before recommending.
 2. **Librarian:** Cross-check degrees, AI practice, and DNF before “never read X.”
-3. **Recommender:** Apply taste filter (challenge > cheerleading); prefer paths A–G over random canon; never flatter.
+3. **Recommender:** Apply taste filter (challenge > cheerleading); prefer **core first-principles paths** over topic apps; never flatter; never lead with climate/AI.
 4. **Curriculum builder:** Build on degree + work foundations; fill *vault leisure* gaps that still bite.

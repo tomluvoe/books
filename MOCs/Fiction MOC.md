@@ -53,6 +53,6 @@
 
 ## Reading paths
 
-Paths **A** (autocracy → Russian/theory lit), **F** (fiction gaps). Full detail: [[Gaps and Study Paths]].
+Core: **L** (literature as primary knowledge). Power novels also **P**. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._

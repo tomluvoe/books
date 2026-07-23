@@ -29,6 +29,6 @@
 
 ## Reading paths
 
-Not econ-history surveys (degree). Optional deep spine (Cold War / WWII / Asia). Pair with Path **A**. Full detail: [[Gaps and Study Paths]].
+Core: **P**, **T**, **$**. Prefer structural/first-principles history over topic tours. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._

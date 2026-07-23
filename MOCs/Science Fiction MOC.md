@@ -21,6 +21,6 @@
 
 ## Reading paths
 
-Mars trilogy **complete**. Paths **F3**, **B2** (Ministry for the Future). Full detail: [[Gaps and Study Paths]].
+Core optional: **L3**. Mars complete. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._

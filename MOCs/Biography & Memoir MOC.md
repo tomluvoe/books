@@ -30,6 +30,6 @@
 
 ## Reading paths
 
-Pair regime/author lives with Path **A**. Full detail: [[Gaps and Study Paths]].
+Pair regime witness with **Path P**. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._

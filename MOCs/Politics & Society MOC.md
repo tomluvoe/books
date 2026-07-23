@@ -31,6 +31,6 @@
 
 ## Reading paths
 
-Paths **A** (theory under autocracy binge), **B** (climate politics), **G**. Full detail: [[Gaps and Study Paths]].
+Core: **P** (power & liberty). App-Climate optional only after **T**. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._

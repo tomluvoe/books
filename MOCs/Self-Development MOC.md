@@ -11,6 +11,6 @@
 
 ## Reading paths
 
-**Low priority.** Congratulatory self-help is a hard reject ([[Context]] taste filter). Full detail: [[Gaps and Study Paths]].
+Low priority; reject congratulatory self-help. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._
