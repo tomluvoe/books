@@ -1,7 +1,8 @@
 # Fiction MOC
 
-45 books, chronological by date finished.
+46 books, chronological by date finished.
 
+- ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2006 · [[The Great Gatsby]] — F. Scott Fitzgerald
 - 2006 · [[Lolita]] — Vladimir Nabokov
 - 2006 · [[The Sun also Rises]] — Ernest Hemingway

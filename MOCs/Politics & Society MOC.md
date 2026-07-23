@@ -1,7 +1,8 @@
 # Politics & Society MOC
 
-19 books, chronological by date finished.
+20 books, chronological by date finished.
 
+- ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2007 · [[Rights of Man]] — Thomas Paine
 - 2008 · [[Letters to a Young Contrarian]] — Christopher Hitchens
 - 2008 · [[Essays]] — George Orwell

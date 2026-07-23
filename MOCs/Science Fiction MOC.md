@@ -1,10 +1,11 @@
 # Science Fiction MOC
 
-15 books, chronological by date finished.
+16 books, chronological by date finished.
 
 - 2005 · [[The Island of Dr. Moreau]] — H.G. Wells
 - 2006 · [[A Sound of Thunder]] — Ray Bradbury
 - 2006 · [[The Invisible Man]] — H.G. Wells
+- 2006 · [[Red Mars]] — Kim Stanley Robinson *(approx. date; trilogy complete)*
 - 2006 · [[Green Mars]] — Kim Stanley Robinson
 - 2006 · [[Blue Mars]] — Kim Stanley Robinson
 - 2007 · [[Stranger in a Strange Land]] — Robert A. Heinlein
@@ -19,5 +20,7 @@
 - 2017 · [[The Martian]] — Andy Weir
 
 ## Reading paths
+
+- **Mars trilogy (KSR)** — complete: [[Red Mars]] → [[Green Mars]] → [[Blue Mars]] (reviews on Green/Blue).
 
 _Study plans and next-read recommendations go here._

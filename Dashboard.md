@@ -1,11 +1,15 @@
 # 📚 Dashboard
 
-**166 unique books · 168 reads · 2005–2026 · 59 with imported reviews**
+**169 unique books · 171 reads · ~2001–2026 · 59 with imported reviews**
+
+See also [[Context]] for education background and recommendation rules (degree foundations vs leisure log).
 
 ## Books per year
 
+- ~2001: █ 1 *(approx. — Relativity)*
+- ~2002: █ 1 *(approx. — Nineteen Eighty-Four)*
 - 2005: █ 1
-- 2006: ██████████ 10
+- 2006: ███████████ 11
 - 2007: ████████████████ 16
 - 2008: ████████ 8
 - 2009: ████████ 8
@@ -39,4 +43,13 @@ SORT min(dates_read) DESC
 
 ```dataview
 LIST FROM "Books" WHERE !rating SORT file.name ASC
+```
+
+## Approximate dates (retrospective)
+
+```dataview
+TABLE dates_read AS "Approx finished", author AS Author
+FROM "Books"
+WHERE date_precision = "approximate"
+SORT min(dates_read) ASC
 ```

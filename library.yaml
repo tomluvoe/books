@@ -1,5 +1,20 @@
-# Reading library — master index (generated from Google Calendar export)
+# Reading library — master index (generated from Google Calendar export;
+# later entries may be manual/retrospective — see Context.md)
 books:
+  - title: "Relativity"
+    author: ["Albert Einstein"]
+    dates_read: [2001-06-15]
+    date_precision: approximate
+    language: en
+    domains: [science]
+    has_review: false
+  - title: "Nineteen Eighty-Four"
+    author: ["George Orwell"]
+    dates_read: [2002-06-15]
+    date_precision: approximate
+    language: en
+    domains: [fiction, classics, politics]
+    has_review: false
   - title: "The Island of Dr. Moreau"
     author: ["H.G. Wells"]
     dates_read: [2005-12-27]
@@ -30,6 +45,13 @@ books:
     language: en
     domains: [fiction, classics]
     has_review: true
+  - title: "Red Mars"
+    author: ["Kim Stanley Robinson"]
+    dates_read: [2006-03-01]
+    date_precision: approximate
+    language: en
+    domains: [sci-fi]
+    has_review: false
   - title: "The Dragons of Eden"
     author: ["Carl Sagan"]
     dates_read: [2006-03-26]
