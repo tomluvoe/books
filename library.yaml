@@ -505,7 +505,7 @@ books:
     domains: [fiction]
     has_review: false
   - title: "Tjetjenien"
-    author: []
+    author: ["Anna Politkovskaja"]
     dates_read: [2013-01-13]
     language: sv
     domains: [geopolitics, history]

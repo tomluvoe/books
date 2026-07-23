@@ -21,6 +21,6 @@
 
 ## Reading paths
 
-Core optional: **L3**. Mars complete. Full detail: [[Gaps and Study Paths]].
+Core optional: **L3** (Lem/Le Guin epistemics; KSR *Aurora* / *Ministry for the Future* — favourite-anchored on the Mars trilogy) and **L4 — Minds and machines** (Watts *Blindsight* ⭐ entry; Chiang; late Gibson; Zamyatin *We*; Cixin; *Cryptonomicon* as tome). Mars complete; shelf frozen since 2017 — L4 is the thaw. Planned: *Project Hail Mary* (vacation, July 2026). Full detail: [[Gaps and Study Paths]].
 
 _See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._
