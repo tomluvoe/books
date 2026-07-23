@@ -1,6 +1,6 @@
 # 📚 Dashboard
 
-**165 unique books · 167 reads · 2005–2026 · 59 with imported reviews**
+**166 unique books · 168 reads · 2005–2026 · 59 with imported reviews**
 
 ## Books per year
 
@@ -25,7 +25,7 @@
 - 2023: ███████ 7
 - 2024: ███ 3
 - 2025: ████ 4
-- 2026: █ 1
+- 2026: ██ 2
 
 ## All books (Dataview)
 

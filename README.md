@@ -1,6 +1,6 @@
 # Reading Library
 
-Migrated from the **Books** Google Calendar (2005–2026): **165 unique books, 167 reads, 59 imported reviews**. Plain Markdown + YAML frontmatter is the source of truth; `library.yaml` is a generated compact index (regenerate or edit either — just pick one master).
+Migrated from the **Books** Google Calendar (2005–2026): **166 unique books, 168 reads, 59 imported reviews**. Plain Markdown + YAML frontmatter is the source of truth; `library.yaml` is a generated compact index (regenerate or edit either — just pick one master).
 
 ## Structure
 - `Books/` — one note per book. Frontmatter schema: `title, author[], dates_read[], language, domains[], rating, status, tags, source` (+ `year_published, isbn, pages` after enrichment). Re-reads = multiple `dates_read`.

@@ -1,6 +1,6 @@
 # Classics MOC
 
-29 books, chronological by date finished.
+30 books, chronological by date finished.
 
 - 2005 · [[The Island of Dr. Moreau]] — H.G. Wells
 - 2006 · [[The Invisible Man]] — H.G. Wells
@@ -31,6 +31,7 @@
 - 2013 · [[A Study in Scarlet]] — Arthur Conan Doyle
 - 2013 · [[The Sign of the Four]] — Arthur Conan Doyle
 - 2025 · [[The Old Man and the Sea]] — Ernest Hemingway
+- 2026 · [[Animal Farm]] — George Orwell
 
 ## Reading paths
 
