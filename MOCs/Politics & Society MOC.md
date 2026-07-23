@@ -26,8 +26,11 @@
 ### Currently reading
 - [[This Changes Everything]] — Naomi Klein *(in progress)*
 
+### Did not finish
+- [[The Downing Street Years]] — Margaret Thatcher *(~p. 540; enjoyed a lot until repetitive)*
+
 ## Reading paths
 
-Paths **A** (theory under autocracy binge), **B** (climate politics), **G**. Full detail: [[Gaps and Study Paths]].
+Core: **P** (power & liberty). Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

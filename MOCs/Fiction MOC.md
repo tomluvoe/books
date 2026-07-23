@@ -1,7 +1,9 @@
 # Fiction MOC
 
-46 books, chronological by date finished.
+48 books, chronological by date finished.
 
+- ~1998 · [[The Trial]] — Franz Kafka *(approx.; high school)*
+- ~1998 · [[Röda rummet]] — August Strindberg *(approx.; pre-library)*
 - ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2006 · [[The Great Gatsby]] — F. Scott Fitzgerald
 - 2006 · [[Lolita]] — Vladimir Nabokov
@@ -51,6 +53,6 @@
 
 ## Reading paths
 
-Paths **A** (autocracy → Russian/theory lit), **F** (fiction gaps). Full detail: [[Gaps and Study Paths]].
+Core: **L** (literature as primary knowledge). Power novels also **P**. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

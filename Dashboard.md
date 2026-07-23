@@ -1,6 +1,6 @@
 # 📚 Dashboard
 
-**169 finished · 171 reads · 1 currently reading · ~2001–2026 · 59 with imported reviews**
+**171 finished · 173 reads · 1 currently reading · 4 DNF · ~1998–2026 · 59 with imported reviews**
 
 - [[Context]] — education, work/AI level, taste (challenge ≠ cheerleading), DNF  
 - [[Gaps and Study Paths]] — full gap map + study paths A–G
@@ -25,6 +25,7 @@ SORT file.name ASC
 
 ## Books per year
 
+- ~1998: ██ 2 *(approx. — The Trial, Röda rummet; high school / pre-library)*
 - ~2001: █ 1 *(approx. — Relativity)*
 - ~2002: █ 1 *(approx. — Nineteen Eighty-Four)*
 - 2005: █ 1

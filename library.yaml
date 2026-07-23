@@ -1,6 +1,20 @@
 # Reading library — master index (generated from Google Calendar export;
 # later entries may be manual/retrospective — see Context.md)
 books:
+  - title: "The Trial"
+    author: ["Franz Kafka"]
+    dates_read: [1998-06-15]
+    date_precision: approximate
+    language: en
+    domains: [fiction, classics]
+    has_review: false
+  - title: "Röda rummet"
+    author: ["August Strindberg"]
+    dates_read: [1998-06-15]
+    date_precision: approximate
+    language: sv
+    domains: [fiction, classics]
+    has_review: false
   - title: "Relativity"
     author: ["Albert Einstein"]
     dates_read: [2001-06-15]
@@ -1032,3 +1046,19 @@ books:
     domains: [psychology]
     has_review: false
     status: dnf
+  - title: "The Downing Street Years"
+    author: ["Margaret Thatcher"]
+    dates_read: []
+    language: en
+    domains: [politics, history, biography]
+    has_review: false
+    status: dnf
+    progress_note: "~540 pages; nearly finished; enjoyed until repetitive"
+  - title: "The Confessions"
+    author: ["Jean-Jacques Rousseau"]
+    dates_read: []
+    language: en
+    domains: [philosophy, classics, biography]
+    has_review: false
+    status: dnf
+    progress_note: "roughly halfway; became slow"

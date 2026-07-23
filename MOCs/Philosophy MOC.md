@@ -14,8 +14,11 @@
 - 2013 · [[Man's Search for Meaning]] — Viktor Frankl
 - 2023 · [[The Lives of the Stoics]] — Ryan Holiday, Stephen Hanselman
 
+### Did not finish
+- [[The Confessions]] — Jean-Jacques Rousseau *(roughly halfway; became slow)*
+
 ## Reading paths
 
-Path **G** only if hungry for friction — no intro cheerleading. Full detail: [[Gaps and Study Paths]].
+Core: **M** (morals & self), **P1** (liberty/power theory). Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

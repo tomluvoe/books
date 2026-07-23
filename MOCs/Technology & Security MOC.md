@@ -16,6 +16,6 @@
 
 ## Reading paths
 
-Path **C** only — **no practical AI gap** (practitioner + patents). Society/power books must pass anti-flattery filter in [[Context]]. Full detail: [[Gaps and Study Paths]].
+Core: **T2** (technique as such — Ellul/Winner/Wiener). Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

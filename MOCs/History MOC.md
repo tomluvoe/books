@@ -24,8 +24,14 @@
 - 2023 · [[Till Eftervärlden]] — Marianne Molander Beyer
 - 2025 · [[The Storm Before the Storm]] — Mike Duncan
 
+### Did not finish
+- [[The Downing Street Years]] — Margaret Thatcher *(~p. 540; enjoyed until repetitive)*
+
 ## Reading paths
 
-Not econ-history surveys (degree). Optional deep spine (Cold War / WWII / Asia). Pair with Path **A**. Full detail: [[Gaps and Study Paths]].
+Core: **Path H — Historical order** (pick **one spine**: Rome, Cold War, WWII, Revolution, China, US, IR classics).  
+Also pairs with **P**, **T**, **$**.  
+You already have late Republic only ([[The Storm Before the Storm]]) — **H-Rome** continues that thread; Cold War shelf is *fragments* until a spine book.  
+Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

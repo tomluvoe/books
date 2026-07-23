@@ -15,6 +15,6 @@
 
 ## Reading paths
 
-Path **D**. TFAS is **DNF** — do not re-recommend. Full detail: [[Gaps and Study Paths]].
+Core: **K** (knowledge under uncertainty). TFAS **DNF**. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] for the complete gap map and ordered steps. Apply [[Context]] filters (challenge ≠ cheerleading; no degree/AI remediation)._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._
