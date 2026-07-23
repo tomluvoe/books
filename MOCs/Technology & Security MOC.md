@@ -16,6 +16,6 @@
 
 ## Reading paths
 
-Core: **T2** (technique as such — Ellul/Winner/Wiener). App-AI default **skip**. Full detail: [[Gaps and Study Paths]].
+Core: **T2** (technique as such — Ellul/Winner/Wiener). Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

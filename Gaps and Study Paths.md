@@ -3,7 +3,7 @@
 Master map of **vault leisure-reading gaps** and ordered **study paths**.  
 Always read with [[Context]] (degrees, DNF, taste, AI practice level).
 
-**Last updated:** 2026-07-23 (paths reframed: first principles core; climate/AI = optional apps)  
+**Last updated:** 2026-07-23 (paths reframed: first principles core only)  
 **Vault baseline:** ~171 finished · 173 reads · 1 reading · DNF noted in Context  
 **This is not a syllabus for degrees.** Gaps = missing *logged leisure* that would still challenge you — not undergrad remediation.
 
@@ -47,7 +47,6 @@ Every option has an **angle** — what kind of mind / mood / argument you get if
 5. **Money & instability** — system under crisis stories you already read.
 6. **Literature as primary knowledge** — novels that *are* the argument.
 7. **Historical spines** — one deep arc of order/collapse (Rome, Cold War, …), not world-survey tourism.
-8. Topic apps (climate, AI-society) only **after** the above, if still hungry.
 
 ---
 
@@ -55,10 +54,7 @@ Every option has an **angle** — what kind of mind / mood / argument you get if
 
 **Design rule:** A good path starts from **first principles** (what is power, knowledge, value, constraint, credit, form, **how orders rise and fall**), not from **topics** (climate, AI, “current thing”).
 
-| Layer | Paths | Role |
-|-------|--------|------|
-| **Core** | **P, K, M, T, $, L, H** | First knowledge — build these first |
-| **Applied** (optional) | **App-Climate, App-AI** | Downstream uses of T / $ / P — only after core itch is real |
+Core paths only: **P, K, M, T, $, L, H** (no topic-app side tracks).
 
 At each step, **pick one book by angle**.
 
@@ -177,8 +173,6 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 | **Ellul — *The Technological Society*** | **Technique as total environment.** Cold mid-century first principles; no startup vocabulary; anti-cheerleading by nature. |
 | **Winner — *Autonomous Technology*** | **Artifacts have politics.** Systems drift; academic US theory of tech. |
 | **Wiener — *The Human Use of Human Beings*** | **Cybernetics + dignity.** Control, feedback, what must not be done to persons. Shorter classic. |
-
-**After T:** optional App-Climate / App-AI make sense. Before T: they are topic shopping.
 
 ---
 
@@ -331,36 +325,6 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 ---
 
-## Applied layer (optional — not core)
-
-Only after relevant **core** paths. These are **topics**, not first knowledge.
-
-### App-Climate — after Path T (and maybe $)
-
-*In progress:* [[This Changes Everything]] (Klein) — **topic-level** political economy of climate. Resolve finish/DNF; do not treat as core curriculum.
-
-| Book | Angle if you choose it |
-|------|------------------------|
-| **Finish or DNF Klein** | Close the open loop; her frame is capitalism-vs-climate *application*. |
-| **Malm — *Fossil Capital*** | Conflict history of fossil power — still applied, denser than hopeium. |
-| **Mitchell — *Carbon Democracy*** | Oil linked to democratic form — applied political theory. |
-| **KSR — *Ministry for the Future*** | Governance SF application of T-constraints. |
-| **Skip entire app** | Valid if core paths matter more — **default under first-principles preference**. |
-
-### App-AI — after Path T (technique)
-
-*You have no practical AI gap* (expert practitioner).  
-**Hard reject:** audience flattery; “you’re building the future.”
-
-| Book | Angle if you choose it |
-|------|------------------------|
-| **Acemoglu & Johnson — *Power and Progress*** | Who captures tech gains — applied political economy (lineage of *Why Nations Fail*). |
-| **Zuboff — *Surveillance Capitalism*** | Behavior extraction — applied; drop if lectures the convinced. |
-| **Crawford — *Atlas of AI* / Pasquale — *Black Box Society*** | Material or legal opacity — applied; high skip rate. |
-| **Skip entire app** | **Default.** Technique first principles live in **Path T** (Ellul/Winner/Wiener), not in AI airport books. |
-
----
-
 ## Path map (quick)
 
 ### Core (first principles)
@@ -375,20 +339,13 @@ Only after relevant **core** paths. These are **topics**, not first knowledge.
 | **L — Literature as primary knowledge** | Which forms teach what theory can’t? | Demons possession vs Karamazov soul-court; Sebald/Camus/Mann |
 | **H — Historical order** | How do polities rise and break? | **Pick one spine:** Rome / Cold War / WWII / Revolution / China / US / IR classics |
 
-### Applied (optional)
-
-| App | Depends on | First question |
-|-----|------------|----------------|
-| **App-Climate** | T (maybe $) | Only if climate *as topic* still matters after constraints |
-| **App-AI** | T | Only if society-of-AI itch survives Ellul/Winner; default skip |
-
 ### Legacy IDs (old → new)
 
 | Old | New |
 |-----|-----|
 | A (autocracy lit/theory) | **P** + **L1** |
-| B (climate) | **App-Climate** (Smil → **T1**) |
-| C (AI) | **App-AI** (Ellul/Winner/Wiener → **T2**) |
+| B (climate topic path) | **removed** — material constraint stays in **T1** (Smil); no climate app path |
+| C (AI topic path) | **removed** — technique stays in **T2** (Ellul/Winner/Wiener); no AI app path |
 | D (judgment) | **K** |
 | E (markets) | **$** |
 | F (fiction) | **L** |
@@ -412,7 +369,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Have | Gaps | Path |
 |------|------|------|
-| Paine → Hitchens/Orwell → 2018–25 autocracy cluster | Theory between Paine and Twitter-era warnings (Arendt, Tocqueville, Mill); climate politics unfinished | **P** (App-Climate optional) |
+| Paine → Hitchens/Orwell → 2018–25 autocracy cluster | Theory between Paine and Twitter-era warnings (Arendt, Tocqueville, Mill) | **P** |
 
 ### Geopolitics (~17)
 
@@ -436,7 +393,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Have | Gaps | Path |
 |------|------|------|
-| Failure/extraction/political economy; Klein climate in progress | Inequality debates if wanted; finish/DNF Klein | **$** (App-Climate optional) |
+| Failure/extraction/political economy | Inequality debates if wanted (not intro econ) | **$** |
 
 ### Science Fiction (~16)
 
@@ -460,7 +417,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Have | Gaps | Path |
 |------|------|------|
-| Hacker lore, Snowden, Jobs/Musk, crypto crime/FTX | **No practical AI gap.** Societal/power implications only if non-basic | **Path T2** (App-AI optional, default skip) |
+| Hacker lore, Snowden, Jobs/Musk, crypto crime/FTX | **No practical AI gap.** Societal/power implications only if non-basic | **Path T2** |
 
 ### Crime (~10)
 
@@ -528,9 +485,9 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Role | Action |
 |------|--------|
-| **You** | Prefer **core paths (P, K, M, T, $, L, H)** before any App-*; one historical spine at a time |
+| **You** | Prefer core paths **P, K, M, T, $, L, H**; one historical spine at a time |
 | **Librarian** | Answer “what’s missing?” from this file + Context; distinguish first principles vs topics |
-| **Recommender** | Propose next step on a **core** path unless user asks for applied; never cheerlead; never lead with climate/AI topics |
+| **Recommender** | Propose next step on a **core** path; never cheerlead; first principles only |
 | **Logger** | On finish, update book note + MOC; strike or check steps here if desired |
 
 ### Suggested near-term stack (first principles)
@@ -539,9 +496,8 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 2. **H0** — Pick **one** historical spine (default lean: **H-Rome** to continue Duncan, or **H-Cold War** to unify fragments).  
 3. **T1 or T2** — Material constraint (Smil) *or* technique (Ellul/Winner/Wiener).  
 4. **$1** when you want system under finance stories (Kindleberger / Tooze / Minsky).  
-5. **Resolve Klein** only as open-loop hygiene (App-Climate), not as core study.  
-6. **App-AI: skip by default.**  
-7. Do **not** restart Kahneman (Path K: close or Tetlock/Lewis only).
+5. [[This Changes Everything]] is in-progress reading hygiene (finish/DNF), **not** a study path.  
+6. Do **not** restart Kahneman (Path K: close or Tetlock/Lewis only).
 
 ---
 
@@ -550,13 +506,13 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 | Domain MOC | Core paths |
 |------------|------------|
 | [[Fiction MOC]] / [[Classics MOC]] | **L**, parts of **P** |
-| [[Politics & Society MOC]] | **P** (App-Climate optional) |
+| [[Politics & Society MOC]] | **P** |
 | [[Geopolitics MOC]] | **P**, **$** |
 | [[History MOC]] | **H** (primary); also **P**, **T**, **$** |
-| [[Finance & Markets MOC]] / [[Economics MOC]] | **$** (App-Climate optional) |
+| [[Finance & Markets MOC]] / [[Economics MOC]] | **$** |
 | [[Science Fiction MOC]] | **L3** |
 | [[Philosophy MOC]] | **M**, **P1** |
 | [[Science & Skepticism MOC]] | **T1** |
-| [[Technology & Security MOC]] | **T2** (App-AI optional, default skip) |
+| [[Technology & Security MOC]] | **T2** |
 | [[Psychology MOC]] | **K** |
 | Others | Low priority unless personal |

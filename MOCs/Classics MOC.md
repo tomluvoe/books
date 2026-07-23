@@ -44,4 +44,4 @@
 
 Core: **L**, **P1**, **M**. Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

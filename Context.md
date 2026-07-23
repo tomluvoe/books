@@ -45,7 +45,7 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 | Feeling talked *at* by a superior mind | Being congratulated for showing up |
 | **First principles** (power, knowledge, value, constraint, credit, form) | **Topic-first study** (climate, AI, “current thing”) as the *start* of a path |
 
-**Study preference (binding):** Good study starts from **first principles**, not applied topics. Climate and AI are **not** first principles — they are applications of energy, technique, power, capital. Core paths in [[Gaps and Study Paths]]: **P, K, M, T, $, L, H**. Path **H** = one deep historical spine (e.g. Rome, Cold War), not world-survey tourism. App-Climate / App-AI only after core (default skip App-AI).
+**Study preference (binding):** Good study starts from **first principles**, not applied topics. Climate and AI are **not** first principles — they are applications of energy, technique, power, capital. Core paths in [[Gaps and Study Paths]]: **P, K, M, T, $, L, H**. Path **H** = one deep historical spine (e.g. Rome, Cold War), not world-survey tourism. No climate/AI topic paths.
 
 **Anecdote (binding):** At an executive-track AI conference, a speaker praising the audience for being there and clear-sighted was a **total turnoff**. That register of writing/talking is rejected in recommendations — especially on AI.
 
@@ -86,5 +86,5 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 
 1. Read **this file** + **[[Gaps and Study Paths]]** before recommending.
 2. **Librarian:** Cross-check degrees, AI practice, and DNF before “never read X.”
-3. **Recommender:** Apply taste filter (challenge > cheerleading); prefer **core first-principles paths** over topic apps; never flatter; never lead with climate/AI.
+3. **Recommender:** Apply taste filter (challenge > cheerleading); prefer **core first-principles paths** only; never flatter.
 4. **Curriculum builder:** Build on degree + work foundations; fill *vault leisure* gaps that still bite.

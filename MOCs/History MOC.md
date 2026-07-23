@@ -34,4 +34,4 @@ Also pairs with **P**, **T**, **$**.
 You already have late Republic only ([[The Storm Before the Storm]]) — **H-Rome** continues that thread; Cold War shelf is *fragments* until a spine book.  
 Full detail: [[Gaps and Study Paths]].
 
-_See [[Gaps and Study Paths]] — **core first principles** before topic apps (climate/AI). Apply [[Context]] filters._
+_See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._
