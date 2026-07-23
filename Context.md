@@ -44,6 +44,10 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 
 - **[[This Changes Everything]]** — Naomi Klein (*Capitalism vs. the Climate*). **Status: reading** (2026); not finished. Related finished Klein: [[The Shock Doctrine]] (2018).
 
+## Did not finish (DNF) — do not re-recommend as gap-fills
+
+- **[[Thinking, Fast and Slow]]** (Kahneman) — started years ago; stopped by ~ch. 1; felt “stupid” / uncompelling. With a **bachelor in Psychology**, the pop dual-process framing is a poor leisure fit. Prefer narrative or adjacent angles if judgment/decision still matters (e.g. Lewis *The Undoing Project*, Tetlock *Superforecasting*, Haidt, or finance-adjacent behavioral stories) — not another TFAS push.
+
 ## How agents should use this
 
 - **Librarian:** Cross-check `Context.md` before claiming “never read X” for physics/psych/MBA/econ-history basics.

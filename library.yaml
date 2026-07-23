@@ -1025,3 +1025,10 @@ books:
     domains: [politics, economics]
     has_review: false
     status: reading
+  - title: "Thinking, Fast and Slow"
+    author: ["Daniel Kahneman"]
+    dates_read: []
+    language: en
+    domains: [psychology]
+    has_review: false
+    status: dnf

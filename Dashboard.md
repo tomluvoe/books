@@ -13,6 +13,15 @@ WHERE status = "reading"
 SORT file.name ASC
 ```
 
+## Did not finish (DNF)
+
+```dataview
+TABLE join(author, ", ") AS Author, join(domains, ", ") AS Domains
+FROM "Books"
+WHERE status = "dnf" OR status = "paused"
+SORT file.name ASC
+```
+
 ## Books per year
 
 - ~2001: █ 1 *(approx. — Relativity)*
