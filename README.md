@@ -11,8 +11,9 @@ Leisure reading log (originally **Books** Google Calendar, 2005–2026), plus re
 - `scripts/enrich_openlibrary.py` — adds ISBN, publish year, page count, subjects from Open Library.
 
 ## Status values
-- `read` — finished
-- (paused / pending books: document in `Context.md` until a note is created with a confirmed title)
+- `read` — finished (`dates_read` set; counts toward read totals)
+- `reading` — started, not finished (no `dates_read` until done; listed on Dashboard / Context)
+- `paused` — abandoned or on hold (optional; same non-counting rule as `reading`)
 
 ## AI workflows
 Drop this folder into a Claude Project (or point your agent framework at this vault). Useful skills to build, FinAgent-style:

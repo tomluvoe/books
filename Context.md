@@ -42,8 +42,7 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 
 ## Active / paused (not finished)
 
-- **Anne Applebaum “climate” book** — reader started, did not enjoy, **paused/pending**.  
-  **Lookup note (2026-07):** Anne Applebaum has no standalone climate-science title in her main bibliography. Recent books: *Iron Curtain*, *Red Famine*, *Twilight of Democracy*, *Autocracy, Inc.* (the last is already logged as finished 2025-02-16 and is sometimes discussed with planetary/environmental harm in interviews, but it is not a climate book). Confirm the exact title before logging — possible mix-up with another author or with *Autocracy, Inc.* / *Twilight of Democracy*.
+- **[[This Changes Everything]]** — Naomi Klein (*Capitalism vs. the Climate*). **Status: reading** (2026); not finished. Related finished Klein: [[The Shock Doctrine]] (2018).
 
 ## How agents should use this
 

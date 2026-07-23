@@ -1018,3 +1018,10 @@ books:
     language: en
     domains: [fiction, classics, politics]
     has_review: false
+  - title: "This Changes Everything"
+    author: ["Naomi Klein"]
+    dates_read: []
+    language: en
+    domains: [politics, economics]
+    has_review: false
+    status: reading

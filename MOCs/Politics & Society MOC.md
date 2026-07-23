@@ -23,6 +23,9 @@
 - 2025 · [[Autocracy, Inc]] — Anne Applebaum
 - 2026 · [[Animal Farm]] — George Orwell
 
+### Currently reading
+- [[This Changes Everything]] — Naomi Klein *(in progress)*
+
 ## Reading paths
 
 _Study plans and next-read recommendations go here._

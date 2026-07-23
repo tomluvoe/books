@@ -1,8 +1,17 @@
 # 📚 Dashboard
 
-**169 unique books · 171 reads · ~2001–2026 · 59 with imported reviews**
+**169 finished · 171 reads · 1 currently reading · ~2001–2026 · 59 with imported reviews**
 
 See also [[Context]] for education background and recommendation rules (degree foundations vs leisure log).
+
+## Currently reading
+
+```dataview
+TABLE join(author, ", ") AS Author, join(domains, ", ") AS Domains
+FROM "Books"
+WHERE status = "reading"
+SORT file.name ASC
+```
 
 ## Books per year
 

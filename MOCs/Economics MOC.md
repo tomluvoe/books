@@ -1,6 +1,6 @@
 # Economics MOC
 
-13 books, chronological by date finished.
+13 books finished (+ 1 currently reading), chronological by date finished.
 
 - 2011 · [[Freakonomics]] — Steven Levitt, Stephen Dubner
 - 2016 · [[Confessions of an Economic Hit Man]] — John Perkins
@@ -15,6 +15,9 @@
 - 2021 · [[Money and Tough Love, On Tour with the IMF]] — Liaquat Ahamed
 - 2021 · [[Lords of finance]] — Liaquat Ahamed
 - 2024 · [[Broken Money]] — Lyn Alden
+
+### Currently reading
+- [[This Changes Everything]] — Naomi Klein *(in progress; capitalism vs. the climate)*
 
 ## Reading paths
 
