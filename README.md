@@ -4,7 +4,7 @@ Leisure reading log (originally **Books** Google Calendar, 2005–2026), plus re
 
 ## Structure
 - `Context.md` — **reader profile**: degrees, work/AI practice level, intellectual taste (challenge ≠ cheerleading), DNF, series completion. Agents must read this before recommending.
-- `Gaps and Study Paths.md` — **full domain gap map** + ordered paths (A–G). Source of truth for “what’s missing” and curricula.
+- `Gaps and Study Paths.md` — **full domain gap map** + ordered core paths (P, K, M, T, $, L, H; legacy A–G IDs mapped inside). Source of truth for “what’s missing” and curricula.
 - `Books/` — one note per book. Frontmatter schema: `title, author[], dates_read[], language, domains[], rating, status, tags, source` (+ optional `date_precision: approximate`, `subtitle`, and after enrichment `year_published, isbn, pages`). Re-reads = multiple `dates_read`.
 - `MOCs/` — one Map of Content per domain (17 domains). Short path pointers live here; detail in `Gaps and Study Paths.md`.
 - `Dashboard.md` — stats + Dataview queries (requires the Dataview community plugin).

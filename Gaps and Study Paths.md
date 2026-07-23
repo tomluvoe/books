@@ -3,7 +3,7 @@
 Master map of **vault leisure-reading gaps** and ordered **study paths**.  
 Always read with [[Context]] (degrees, DNF, taste, AI practice level).
 
-**Last updated:** 2026-07-23 (paths reframed: first principles core only)  
+**Last updated:** 2026-07-23 (paths reframed: first principles core only; completion-evidence rule + entry picks added; L4 minds & machines + L5 Eco axis added; favourite anchors from Context)  
 **Vault baseline:** ~171 finished · 173 reads · 1 reading · DNF noted in Context  
 **This is not a syllabus for degrees.** Gaps = missing *logged leisure* that would still challenge you — not undergrad remediation.
 
@@ -14,6 +14,8 @@ Every option has an **angle** — what kind of mind / mood / argument you get if
 
 - Do **one path at a time**; within a path, steps are ordered (A1 before A2) unless marked optional.
 - Angles are not “difficulty levels for beginners.” They are **directions of attack** — the intellectual cut you get if you pick that book.
+- **⭐ *entry*** marks the option with the best challenge-per-page and lowest stall risk *for this reader* (see “Completion evidence” below). Start there when entering a path cold; the other angles remain fully valid picks.
+- Books tagged **tome slot** (700+ pages or equivalent density) draw on a budget of **one per year** — see completion rules.
 - If every option at a step feels like conference flattery, **skip the step** — the path is wrong for that week.
 
 ---
@@ -26,6 +28,21 @@ Every option has an **angle** — what kind of mind / mood / argument you get if
 - **Reject:** consensus cheering, “you’re so clear-sighted for being here,” TED/exec-track flattery, airport books that congratulate the reader.
 - **Prefer:** dense argument, adversarial frames, primary-ish sources, books that risk being disliked.
 - **Test:** would a conference keynote use this to warm up a room of executives? If yes, skip.
+
+### Completion evidence (binding for orderings)
+
+What the log actually shows, and what it implies for how paths should be sequenced:
+
+- **What gets finished:** propulsive narrative nonfiction (Lewis ×4, Enron, LTCM, FTX, Duncan, Applebaum, Coll) and short-to-medium classics. 2022–2026 is almost entirely narrative finance/crime — that engine still runs.
+- **What stalls:** long books that go repetitive or slow — Thatcher (~p. 540), Rousseau (~halfway), *This Changes Everything* (paused, “not fully enjoying”), TFAS (~ch. 1). The DNF pattern is **sprawl**, not difficulty: density is fine, repetition and length without drive are not.
+- **Throughput:** ~10–15 books/yr in 2006–2013 → **~3–7/yr since 2019**. A year of reading now buys **4–6 path steps total across all paths.** Plan accordingly.
+
+**Rules derived (apply when picking within a step):**
+
+1. **Short-sharp beats long-comprehensive as the *entry* to a path.** Enter via the essay, the novella, the 300-page argument; earn the tome with momentum. Berlin before Arendt-full; *Darkness at Noon* before *Gulag*; Kindleberger before Tooze’s 700 pages.
+2. **At most one 700+ page project per year**, and only while a path is already hot. Never two tomes in parallel.
+3. **Each step below marks an “entry” pick** — the option with the best challenge-per-page and lowest sprawl risk *for this reader*. The other angles stay valid; the entry mark is where to start cold.
+4. Dense ≠ long. The taste filter (challenge) and the completion filter (drive/compression) are **both** binding; a book must pass both.
 
 ### Do not treat as gaps
 
@@ -71,27 +88,28 @@ At each step, **pick one book by angle**.
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Arendt — *The Origins of Totalitarianism*** | **Architecture of total domination.** Full system: roots, not headlines. Slow, maximum first-principles payload. |
-| **Arendt — *Eichmann in Jerusalem*** | **Procedure / banality.** Evil as careerism and language — shorter cut into the same problem. |
+| **Berlin — “Two Concepts of Liberty”** (essay) ⭐ *entry* | **Surgical liberty.** Positive vs negative freedom; max signal per hour. One sitting; zero sprawl risk. |
+| **Machiavelli — *The Prince* (+ *Discourses* selections)** | **Power stripped of moral costume.** The coldest primary text on rule; short; risks being disliked — passes every taste filter. The vault jumps Paine → Marx → modern journalism and skips this foundation entirely. |
+| **Arendt — *Eichmann in Jerusalem*** | **Procedure / banality.** Evil as careerism and language — shorter cut into the Arendt problem. |
+| **Arendt — *The Origins of Totalitarianism*** | **Architecture of total domination.** Full system: roots, not headlines. Maximum payload, but 600+ dense pages — **tome slot only** (see completion rules); do not enter the path here cold. |
 | **Tocqueville — *Democracy in America* (selections OK)** | **Soft despotism of equality.** Democracy’s own logic, not only tyranny of the minority/majority slogan. |
-| **Berlin — “Two Concepts of Liberty”** (essay) | **Surgical liberty.** Positive vs negative freedom; max signal per hour. |
 | **Mill — *On Liberty*** | **Harm principle under pressure.** Classic liberal core; sharper than Twitter liberalism. |
 
 #### P2 — Theory as drama (pick one, optional if P1 was Arendt-full)
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Koestler — *Darkness at Noon*** | **Party logic as proof.** The intellectual who agrees to die — first principles of ideological coercion in novel form. |
+| **Koestler — *Darkness at Noon*** ⭐ *entry* | **Party logic as proof.** The intellectual who agrees to die — first principles of ideological coercion in novel form. ~250 pages with drive; you already liked adjacent territory ([[We the Living]], Conrad’s *The Secret Agent*). Also a legitimate cold start for the whole path. |
 | **Skip** | If P1 already heavy enough. |
 
 #### P3 — Witness under power (pick one)
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Solzhenitsyn — *The Gulag Archipelago* (abridged OK)** | **System-as-machine indictment.** Primary-ish scream under your Applebaum history. |
-| **Shalamov — *Kolyma Tales*** | **Anti-redemption.** Camp destroys meaning; coldest witness. |
-| **Grossman — *Life and Fate*** | **Two totalitarianisms as society-novel.** Broader canvas; longer. |
-| **Solzhenitsyn — *Ivan Denisovich* or Tolstoy — *Hadji Murat*** | **Compressed witness.** Short; daily texture of camp or empire. |
+| **Solzhenitsyn — *Ivan Denisovich* or Tolstoy — *Hadji Murat*** ⭐ *entry* | **Compressed witness.** Short; daily texture of camp or empire. One day, one novella — then decide if you want the machine-scale version. |
+| **Solzhenitsyn — *The Gulag Archipelago* (abridged only)** | **System-as-machine indictment.** Primary-ish scream under your Applebaum history. Abridged is the binding format — the full three volumes are a known DNF shape. |
+| **Shalamov — *Kolyma Tales*** | **Anti-redemption.** Camp destroys meaning; coldest witness. Stories — natural stopping points, low sprawl risk despite the weight. |
+| **Grossman — *Life and Fate*** | **Two totalitarianisms as society-novel.** Broader canvas; 900 pages — **tome slot only**, and only after a shorter witness landed. |
 
 **Pairs with Path L** for Russian novels that are first documents of ideology (*Demons*, *Karamazov*).
 
@@ -107,16 +125,16 @@ At each step, **pick one book by angle**.
 
 | Choice | Angle / meaning |
 |--------|----------------|
-| **Close Path K** | Markets narratives (Mackay, Lewis, crashes) already train pattern recognition. Valid first-principles choice: *learn from cases*. |
-| **Continue** | You want formal challenge to confidence → K2. |
+| **Close Path K** ⭐ *default* | Markets narratives (Mackay, Lewis, crashes) already train pattern recognition, and the degree covers the theory. The log shows no appetite here (TFAS = DNF at ch. 1). Closing is the honest first-principles choice: *learn from cases*. |
+| **Continue** | Only if you actively want formal challenge to confidence → K2 (Tetlock *EPJ* or nothing). |
 
 #### K2 — Epistemic challenge (pick one)
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Tetlock — *Expert Political Judgment*** | **Experts fail systematically.** Hardest, academic, ego-wounding. Core knowledge about knowledge. |
-| **Tetlock & Gardner — *Superforecasting*** | **Calibration as craft.** More method, slightly less wound than *EPJ*. |
-| **Lewis — *The Undoing Project*** | **History of a research program.** Least textbook; human story of judgment science (not a bias list). |
+| **Tetlock — *Expert Political Judgment*** ⭐ *entry if continuing* | **Experts fail systematically.** Hardest, academic, ego-wounding. The only option here that adds real payload *beyond a psychology degree* — if K stays open, this is why. |
+| **Tetlock & Gardner — *Superforecasting*** | **Calibration as craft.** More method, less wound than *EPJ* — but closer to the pop register the degree already covers. |
+| **Lewis — *The Undoing Project*** | **History of a research program.** Guaranteed finish (four Lewis books finished, zero stalled) but the lowest challenge payload — pick it as pleasure, not as closing a gap. |
 
 #### K3 — Optional adjacent
 
@@ -137,7 +155,7 @@ Vault philosophy ≈ New Atheism + pamphlets + Holiday Stoicism.
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Marcus Aurelius — *Meditations*** | **Discipline under power.** Emperor’s private notebook — not life-coach Stoicism. |
+| **Marcus Aurelius — *Meditations*** ⭐ *entry* | **Discipline under power.** Emperor’s private notebook — not life-coach Stoicism. Short, fragmentary, re-enterable; also pairs with an H-Rome spine (same world as Tacitus). |
 | **Epictetus — *Enchiridion* / *Discourses*** | **Harsher training.** Systematic; slave/teacher voice. |
 | **Skip Stoicism** | If Holiday poisoned the well — go M2. |
 
@@ -145,7 +163,7 @@ Vault philosophy ≈ New Atheism + pamphlets + Holiday Stoicism.
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Nietzsche — *On the Genealogy of Morals*** | **Morality as history of power.** Three essays; anti-herd; high density. |
+| **Nietzsche — *On the Genealogy of Morals*** ⭐ *entry* | **Morality as history of power.** Three essays, ~120 pages, maximum density per page; anti-herd by construction. The best challenge-per-hour in the whole vault plan. |
 | **Camus — *The Myth of Sisyphus* (+ essays)** | **Absurd without religion.** Clear, hard; meaning after foundations crack. |
 | **Kierkegaard — *Fear and Trembling*** | **Faith vs ethics.** Short existential shock. |
 
@@ -163,16 +181,16 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Smil — *How the World Really Works*** | **Scale without slogan.** Energy, food, materials — first principles of what an economy *is* physically. Shorter. |
-| **Smil — *Energy and Civilization*** | **Energy as history.** Deeper, denser; long-run constraint as the plot. |
+| **Smil — *How the World Really Works*** ⭐ *entry* | **Scale without slogan.** Energy, food, materials — first principles of what an economy *is* physically. Shorter; also the cleanest test of whether the paused Klein should be finished or dropped — Smil answers the same question without the campaign register. |
+| **Smil — *Energy and Civilization*** | **Energy as history.** Deeper, denser; long-run constraint as the plot. Take only if *How the World Really Works* leaves you wanting the full apparatus. |
 
 #### T2 — Technique as autonomous force (pick one)
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Ellul — *The Technological Society*** | **Technique as total environment.** Cold mid-century first principles; no startup vocabulary; anti-cheerleading by nature. |
+| **Wiener — *The Human Use of Human Beings*** ⭐ *entry* | **Cybernetics + dignity.** Control, feedback, what must not be done to persons. Short classic from the founder — the fastest serious cut, and the one closest to your working life without being about your working life. |
+| **Ellul — *The Technological Society*** | **Technique as total environment.** Cold mid-century first principles; no startup vocabulary; anti-cheerleading by nature. ~450 dense pages of translated French sociology — real payload, real stall risk; enter T2 via Wiener first. |
 | **Winner — *Autonomous Technology*** | **Artifacts have politics.** Systems drift; academic US theory of tech. |
-| **Wiener — *The Human Use of Human Beings*** | **Cybernetics + dignity.** Control, feedback, what must not be done to persons. Shorter classic. |
 
 ---
 
@@ -180,20 +198,22 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 *First principles of credit, crisis, political economy of finance*
 
 *You have:* strong *story* finance (Lewis, Enron, LTCM, FTX, flash events, Bullough, Alden, *Lords of Finance*…).  
-**Not a gap:** investing-101, MBA refreshers.
+**Not a gap:** investing-101, MBA refreshers.  
+**Momentum note:** 2022–2026 logs are dominated by exactly this shelf — $ is the **lowest-activation path** in the map. Use it to restore reading momentum after a stall, then spend that momentum on P/L/H.
 
 #### $1 — Anatomy of crisis (pick one)
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Kindleberger — *Manias, Panics, and Crashes*** | **Recurring pattern library.** Cross-century first principles of mania/crash. |
-| **Tooze — *Crashed*** | **One crisis as total system.** 2008 as state + bank + geopolitics — map under your chapter-books. |
+| **Kindleberger — *Manias, Panics, and Crashes*** ⭐ *entry* | **Recurring pattern library.** Cross-century first principles of mania/crash — the theory spine your Mackay → Lewis → FTX shelf has been circling for 20 years. Medium length. |
+| **Tooze — *Crashed*** | **One crisis as total system.** 2008 as state + bank + geopolitics — map under your chapter-books. ~700 pages — **tome slot only.** |
 | **Minsky — essays / *Can “It” Happen Again?*** | **Instability is endogenous.** Hardest theory link; not bedtime. |
 
 #### $2 — Optional deepen
 
 | Book | Angle if you choose it |
 |------|------------------------|
+| **Bagehot — *Lombard Street*** | **The primary text.** 1873, short, still the operating manual for lenders of last resort — primary-source weight your crisis shelf lacks entirely. |
 | **Eichengreen — *Hall of Mirrors*** | **1929 vs 2008.** Comparative; you already have 1929 spine via Ahamed. |
 | **Stop** | Strong $1 is enough. |
 
@@ -206,10 +226,12 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Dostoevsky — *Demons*** | **Possession.** How movements eat people; cell-meeting heat. |
-| **Dostoevsky — *The Brothers Karamazov*** | **Soul-court.** Freedom, guilt, Grand Inquisitor — domination as spiritual problem. |
-| **Bulgakov — *The Master and Margarita*** | **Satire + metaphysics.** Grotesque order; devil as critic. |
+| **Bulgakov — *The Master and Margarita*** ⭐ *entry* | **Satire + metaphysics.** Grotesque order; devil as critic. The shortest of the four (~400 pp) and the most propulsive — the right cold start into Russians for a reader whose long-book record is shaky. |
+| **Dostoevsky — *Demons*** | **Possession.** How movements eat people; cell-meeting heat. The direct payload pick — you already read (and reviewed) Conrad’s *The Secret Agent* and Rand’s *We the Living*; this is the source they orbit. **Tome slot.** |
+| **Dostoevsky — *The Brothers Karamazov*** | **Soul-court.** Freedom, guilt, Grand Inquisitor — domination as spiritual problem. **Tome slot.** |
 | **Pasternak — *Doctor Zhivago*** | **Private life vs History.** Lyric anti-collectivism. |
+
+*Zero Dostoevsky, Tolstoy, or Bulgakov anywhere in 175 logged books — this is the single largest pure-leisure gap in the vault. One Russian tome per year, chosen well, closes it in three.*
 
 #### L2 — European form after Kafka (pick one)
 
@@ -217,17 +239,46 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 | Book | Angle if you choose it |
 |------|------------------------|
+| **Camus — *The Fall*** ⭐ *entry* | **Confession as trap.** ~150 pages; moral self-accusation. Also doubles as the M2 Camus on-ramp. |
 | **Sebald — *Austerlitz* or *The Rings of Saturn*** | **Memory as form.** Aftermath without melodrama. |
-| **Camus — *The Fall*** | **Confession as trap.** Short; moral self-accusation. |
 | **Mann — *Death in Venice* or *The Magic Mountain*** | **Decadence / order under disease.** German modernism density. |
 
 #### L3 — Speculative first principles (optional)
 
 | Book | Angle if you choose it |
 |------|------------------------|
-| **Lem — *Solaris* or *His Master’s Voice*** | **Epistemic humiliation.** Contact/intelligence without mastery. |
+| **Lem — *Solaris* or *His Master’s Voice*** ⭐ *entry* | **Epistemic humiliation.** Contact/intelligence without mastery. Short; the only serious “AI-adjacent” epistemology in the map, and it never mentions AI. |
 | **Le Guin — *The Dispossessed*** | **Political thought experiment.** Anarchist/physics utopia under stress. |
+| **Robinson — *Aurora*** *(favourite-anchored)* | **The Mars author refutes the dream.** Generation-ship realism arguing interstellar colonization *fails* — KSR turning his own trilogy’s systems rigor against its optimism. The natural next KSR for a Mars-trilogy favourite. |
+| **Robinson — *The Ministry for the Future*** *(favourite-anchored)* | **Institutions vs. catastrophe.** Carbon coin, central banks, eco-sabotage — Mars-trilogy systems realism aimed at Earth; pairs with the $ shelf. *Caveat:* topical climate — allowed here as favourite-anchored fiction, not a topic path; drop without guilt if the register turns campaign. |
 | **Skip** | L1–L2 already core. |
+
+#### L4 — Minds and machines (modern speculative)
+
+*First principles: what is a mind, and who owns the network?*
+
+*Not a “classic sci-fi” gap.* The shelf already covers the lineage: scientific romance (Wells ×2) → golden age (Heinlein, Clarke, Bradbury) → new wave (Dick, Herbert) → cyberpunk (*Neuromancer*, *Snow Crash*). What’s missing is everything **after** — the log freezes at *The Martian* (2017), while the same interest kept running as nonfiction (Mitnick, Snowden, *Tracers in the Dark*, *Going Infinite*). One deliberate classic-era exception below closes the Orwell loop.
+
+| Book | Angle if you choose it |
+|------|------------------------|
+| **Watts — *Blindsight*** ⭐ *entry* | **Intelligence without consciousness.** The hardest, darkest epistemic SF of the 2000s; genuinely makes you feel behind. Best single fit for the taste filter in this whole step. |
+| **Chiang — *Stories of Your Life* / *Exhalation*** | **Compressed thought experiments.** Story-length, natural stopping points, zero stall risk — the L4 equivalent of Kolyma’s form advantage. |
+| **Gibson — *Pattern Recognition* or *The Peripheral*** | **Cyberpunk arrives in the present.** What Gibson did after *Neuromancer*; brands, data, and attention as the new terrain. |
+| **Zamyatin — *We*** | **The 1921 source code of *1984*.** Banned Soviet ur-dystopia Orwell drew on directly — short, and the one genuine classic-era gap; pairs with P/L1. |
+| **Cixin — *The Three-Body Problem*** | **Dark-forest game theory at civilizational scale.** Pairs with H-IR realism; first of a trilogy — commit knowingly. |
+| **Stephenson — *Cryptonomicon*** | **Crypto, money, secrecy.** Pairs directly with the Broken Money / *Tracers* shelf — but ~900 pages: **tome slot only.** |
+
+#### L5 — The Eco axis (erudite conspiracy; favourite-anchored)
+
+*Anchor: [[The Prague Cemetery]] — declared **all-time favourite** (see [[Context]]). This step exists to find more of what that book is: learned fiction where real history, forged documents, and bad-faith narrators are the machinery. Topic-free by construction — the first principle is **how lies are manufactured and become history**.*
+
+| Book | Angle if you choose it |
+|------|------------------------|
+| **Eco — *Foucault’s Pendulum*** ⭐ *entry* | **The conspiracy-manufacturing machine at full scale.** Three editors invent a master plot and it comes alive — *The Prague Cemetery*’s engine, built ten years earlier and aimed at everyone who *wants* to believe. The obvious next Eco. |
+| **Eco — *The Name of the Rose*** | **Semiotics with a body count.** Medieval murder via library, heresy, and the politics of laughter — Eco’s densest marriage of erudition and plot. |
+| **Cohn — *Warrant for Genocide*** *(nonfiction)* | **The real Protocols.** The actual history of the forgery *The Prague Cemetery* fictionalizes — the factual spine under the favourite; pairs with Path P. |
+| **Pérez-Reverte — *The Club Dumas*** | **Book-world conspiracy, lighter touch.** Rare-book underworld and a devilish manuscript; the low-stakes palate cleanser of this shelf. |
+| **Borges — *Ficciones*** | **Forgery as metaphysics.** Invented books, fake encyclopedias, labyrinths — the source code Eco compiled from, at story length; zero stall risk. |
 
 ---
 
@@ -250,7 +301,7 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 | **H-US** | Constitutional order, conflict, empire at home | Thin as leisure despite US-centric finance/politics reading | Founding → Civil War → New Deal / rights — pick a sub-arc |
 | **H-IR classics** | Interstate power as permanent problem | Geopolitics journalism only | Thucydides / classical strategy as *argument*, not briefing lite |
 
-**Default recommendation if undecided:** **H-Rome** (you already started the republic’s death) or **H-Cold War** (extends the shelf you actually use).
+**Default recommendation if undecided:** **H-Rome**. Duncan was finished 2025-11 — the most recent serious history in the log, and it *was* finished. That is live momentum; spend it before it cools. **H-Cold War** is the alternate (unifies the shelf you actually use).
 
 ---
 
@@ -260,9 +311,9 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 | Step | Book options | Angle if you choose it |
 |------|----------------|------------------------|
-| **H-Rome-1** (extend the republic story) | **Duncan — *The Storm Before the Storm*** (re-read/notes) → then **Holland — *Rubicon*** **or** **Beard — *SPQR*** | **Holland:** narrative drive into Caesar’s generation. **Beard:** broader Roman self-understanding, less pure thriller. |
-| **H-Rome-2** (empire as system) | **Gibbon — *Decline and Fall* (abridged OK)** **or** **Heather — *The Fall of the Roman Empire*** **or** **Brown — *The World of Late Antiquity*** | **Gibbon:** classic moral-political narrative of decline (long). **Heather:** harder modern “barbarian/military” thesis. **Brown:** late antiquity *transformation*, not simple fall. |
-| **H-Rome-3** (statecraft primary) | **Tacitus — *Annals* (selections)** **or** **Polybius — *Histories* (on mixed constitution / Rome’s rise)** **or** **Syme — *The Roman Revolution*** | **Tacitus:** tyranny and tone under emperors. **Polybius:** constitutional first principles of rise. **Syme:** oligarchic revolution — cold, elite-power reading of Augustus. |
+| **H-Rome-1** (extend the republic story) | **Holland — *Rubicon*** ⭐ *entry* **or** **Beard — *SPQR*** | Duncan is **done** (2025-11) — no re-read needed; go straight on. **Holland:** narrative drive into Caesar’s generation — picks up exactly where Duncan stops, and reads like the finance narratives you reliably finish. **Beard:** broader Roman self-understanding, less pure thriller. |
+| **H-Rome-2** (empire as system) | **Heather — *The Fall of the Roman Empire*** **or** **Brown — *The World of Late Antiquity*** **or** **Gibbon — *Decline and Fall* (abridged only)** | **Heather:** harder modern “barbarian/military” thesis. **Brown:** late antiquity *transformation*, not simple fall — shortest. **Gibbon:** classic moral-political narrative — even abridged it is the spine’s **tome slot**. |
+| **H-Rome-3** (statecraft primary) | **Tacitus — *Annals* (selections)** **or** **Polybius — *Histories* (on mixed constitution / Rome’s rise)** **or** **Syme — *The Roman Revolution*** | **Tacitus:** tyranny and tone under emperors — pairs with *Meditations* (M1) from the other side of the throne. **Polybius:** constitutional first principles of rise. **Syme:** oligarchic revolution — cold, elite-power reading of Augustus. |
 | **Stop** | After 2 books in this spine | Depth > collecting emperors |
 
 ---
@@ -273,7 +324,7 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 | Step | Book options | Angle if you choose it |
 |------|----------------|------------------------|
-| **H-CW-1** (origins / whole arc) | **Gaddis — *The Cold War: A New History*** **or** **Westad — *The Global Cold War*** | **Gaddis:** compact strategic arc (US-centric). **Westad:** Third World as center — decolonizing Cold War. |
+| **H-CW-1** (origins / whole arc) | **Gaddis — *The Cold War: A New History*** ⭐ *entry* **or** **Westad — *The Global Cold War*** | **Gaddis:** compact strategic arc (US-centric) — ~300 pages, turns the fragment shelf into a spine in one book. **Westad:** Third World as center — decolonizing Cold War; heavier. |
 | **H-CW-2** (Soviet endgame / ideology) | **Zubok — *A Failed Empire*** **or** **Service / Applebaum already partial → go Zubok or Plokhy *The Last Empire*** | How the Soviet order unraveled from inside — pairs with your Russia shelf. |
 | **H-CW-3** (optional deep one theater) | You already have **Ghost Wars** (Afghanistan) — go **Halberstam *The Best and the Brightest*** (Vietnam decision-making) **or** stop | **Halberstam:** epistemic failure of the best — pairs with Path K. |
 
@@ -331,12 +382,12 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 | Path | First question | First fork (angles) |
 |------|----------------|---------------------|
-| **P — Power & liberty** | What is domination / freedom? | Arendt architecture vs banality vs Tocqueville soft despotism vs Berlin/Mill liberty |
+| **P — Power & liberty** | What is domination / freedom? | Berlin liberty (entry) vs Machiavelli cold power vs Arendt architecture/banality vs Tocqueville soft despotism vs Mill |
 | **K — Knowledge under uncertainty** | What can experts know? | Close (cases enough) vs Tetlock wound vs Lewis research-story |
 | **M — Morals & the self** | What is value / discipline / meaning? | Marcus vs Epictetus vs Nietzsche vs Camus vs Kierkegaard |
 | **T — Technique & material constraint** | What binds the built world? | Smil scale vs Smil energy-history; then Ellul vs Winner vs Wiener |
 | **$ — Money & instability** | Why do financial systems blow up? | Kindleberger patterns vs Tooze system-map vs Minsky endogenous |
-| **L — Literature as primary knowledge** | Which forms teach what theory can’t? | Demons possession vs Karamazov soul-court; Sebald/Camus/Mann |
+| **L — Literature as primary knowledge** | Which forms teach what theory can’t? | Demons possession vs Karamazov soul-court; Sebald/Camus/Mann; **L4** minds & machines (Watts/Chiang/Gibson/Zamyatin); **L5** Eco axis (*Foucault’s Pendulum*, favourite-anchored) |
 | **H — Historical order** | How do polities rise and break? | **Pick one spine:** Rome / Cold War / WWII / Revolution / China / US / IR classics |
 
 ### Legacy IDs (old → new)
@@ -399,7 +450,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 
 | Have | Gaps | Path |
 |------|------|------|
-| Strong mid-canon; **Mars complete**; freeze after ~2017 | Le Guin/Butler/Banks/Lem/Cixin/Chiang; climate SF | **L3** |
+| Strong mid-canon; **Mars complete**; freeze after ~2017 | Post-2017 continuation: Watts/Chiang/late Gibson/Cixin (L4); Lem/Le Guin epistemics (L3); Zamyatin *We* as the one classic-era gap | **L3 / L4** |
 
 ### Philosophy (~11)
 
@@ -490,14 +541,18 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 | **Recommender** | Propose next step on a **core** path; never cheerlead; first principles only |
 | **Logger** | On finish, update book note + MOC; strike or check steps here if desired |
 
-### Suggested near-term stack (first principles)
+### Suggested near-term stack (concrete, next ~12 months)
 
-1. **P1 or L1** — Power theory (Arendt/Berlin/Mill/Tocqueville) *or* Russian primary novel (*Demons* / *Karamazov*).  
-2. **H0** — Pick **one** historical spine (default lean: **H-Rome** to continue Duncan, or **H-Cold War** to unify fragments).  
-3. **T1 or T2** — Material constraint (Smil) *or* technique (Ellul/Winner/Wiener).  
-4. **$1** when you want system under finance stories (Kindleberger / Tooze / Minsky).  
-5. [[This Changes Everything]] is in-progress reading hygiene (finish/DNF), **not** a study path.  
-6. Do **not** restart Kahneman (Path K: close or Tetlock/Lewis only).
+Sized to the real throughput (~4–7 books/yr since 2019). Six slots, one tome max, ordered:
+
+1. **Hygiene first:** decide [[This Changes Everything]] — finish or DNF it *this month*. A book paused “not fully enjoying” is exactly the shape the log says never recovers. DNF is a valid, honest outcome (see Thatcher).
+2. **H-Rome:** **Holland — *Rubicon***. Duncan finished 2025-11; this continues the exact story with the narrative drive that your finish-record runs on. *(Slot 1)*
+3. **P entry:** **Berlin — “Two Concepts of Liberty”** (an evening), then **Koestler — *Darkness at Noon***. Theory plus its novel — the shelf of autocracy journalism finally gets its foundations. *(Slots 2–3)*
+4. **$ theory:** **Kindleberger — *Manias, Panics, and Crashes*** — the pattern library above the crisis shelf 2022–2026 keeps feeding. *(Slot 4)*
+5. **M shot:** **Nietzsche — *Genealogy of Morals*** — three essays; the highest challenge-per-hour in the plan. *(Slot 5)*
+6. **The year’s one tome (winter):** **Dostoevsky — *Demons*** — opens Path L properly and pays off Koestler; *or* **Arendt — *Origins of Totalitarianism*** if the P shots left you wanting the full architecture. **Pick one, not both.** *(Slot 6)*
+
+Standing rules: do **not** restart Kahneman (K defaults closed); Smil (T1) is the swap-in if any slot above stalls — it restores momentum and settles the Klein question at the same time.
 
 ---
 
@@ -510,7 +565,7 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 | [[Geopolitics MOC]] | **P**, **$** |
 | [[History MOC]] | **H** (primary); also **P**, **T**, **$** |
 | [[Finance & Markets MOC]] / [[Economics MOC]] | **$** |
-| [[Science Fiction MOC]] | **L3** |
+| [[Science Fiction MOC]] | **L3**, **L4** |
 | [[Philosophy MOC]] | **M**, **P1** |
 | [[Science & Skepticism MOC]] | **T1** |
 | [[Technology & Security MOC]] | **T2** |

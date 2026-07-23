@@ -59,6 +59,17 @@ Assume **undergraduate/graduate foundations** are already in place for those fie
 4. **“Gap” in a MOC** often means *not logged as leisure reading*, not *never encountered*.
 5. **Exact dates** for retrospective backfills may be approximate (`date_precision: approximate` on the note).
 
+## All-time favourites (recommendation anchors)
+
+Declared favourites — use as **similarity axes** when recommending, alongside the gap map:
+
+| Favourite | What it implies |
+|-----------|-----------------|
+| **[[The Prague Cemetery]]** (Eco, 2012) | Erudite historical fiction where real history is the machinery: forgery, conspiracy, a cynical unreliable narrator, dense with actual 19th-c politics. More like this welcome **regardless of topic** — see [[Gaps and Study Paths]] **L5 (Eco axis)**. |
+| **Mars trilogy** (Kim Stanley Robinson) | Systems realism as fiction: politics, science, economics, and institutions taken seriously enough to *be* the plot. “Felt super realistic and relevant.” See **L3** KSR options. |
+
+**Planned:** *Project Hail Mary* (Weir) — vacation read, July 2026 (continues [[The Martian]] thread). Log when finished.
+
 ## Series confirmed complete
 
 - **Mars trilogy** (Kim Stanley Robinson): [[Red Mars]], [[Green Mars]], [[Blue Mars]] — all finished (Green/Blue dated 2006; Red backfilled as pre-Green, date approximate).
