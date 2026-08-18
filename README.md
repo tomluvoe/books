@@ -1,5 +1,7 @@
 # Reading Library
 
+> Personal reading log — published as-is, not a template. Reuse under [CC BY 4.0](LICENSE).
+
 Leisure reading log (originally **Books** Google Calendar, 2005–2026), plus retrospective backfills. **171 unique books, 173 reads, 59 imported reviews**. Plain Markdown + YAML frontmatter is the source of truth; `library.yaml` is a generated compact index (regenerate or edit either — just pick one master).
 
 ## Structure
