@@ -1,6 +1,6 @@
 # Science Fiction MOC
 
-16 books, chronological by date finished.
+17 books, chronological by date finished.
 
 - 2005 · [[The Island of Dr. Moreau]] — H.G. Wells
 - 2006 · [[A Sound of Thunder]] — Ray Bradbury
@@ -18,9 +18,10 @@
 - 2010 · [[Rendezvous with Rama]] — Arthur C. Clarke
 - 2014 · [[Snow Crash]] — Neal Stephenson
 - 2017 · [[The Martian]] — Andy Weir
+- 2026 · [[Project Hail Mary]] — Andy Weir
 
 ## Reading paths
 
-Core optional: **L3** (Lem/Le Guin epistemics; KSR *Aurora* / *Ministry for the Future* — favourite-anchored on the Mars trilogy) and **L4 — Minds and machines** (Watts *Blindsight* ⭐ entry; Chiang; late Gibson; Zamyatin *We*; Cixin; *Cryptonomicon* as tome). Mars complete; shelf frozen since 2017 — L4 is the thaw. Planned: *Project Hail Mary* (vacation, July 2026). Full detail: [[Gaps and Study Paths]].
+Core optional: **L3** (Lem/Le Guin epistemics; KSR *Aurora* / *Ministry for the Future* — favourite-anchored on the Mars trilogy) and **L4 — Minds and machines** (Watts *Blindsight* ⭐ entry; Chiang; late Gibson; Zamyatin *We*; Cixin; *Cryptonomicon* as tome). Mars complete. Shelf reopened 2026 with [[Project Hail Mary]] — disliked (flat characters, message over story); the Weir thread is closed, L4 remains the real direction. Full detail: [[Gaps and Study Paths]].
 
 _See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

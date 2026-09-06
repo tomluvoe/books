@@ -1,6 +1,6 @@
 # 📚 Dashboard
 
-**171 finished · 173 reads · 1 currently reading · 3 DNF · ~1998–2026 · 59 with imported reviews**
+**172 finished · 174 reads · 1 currently reading · 3 DNF · ~1998–2026 · 59 with imported reviews**
 
 - [[Context]] — education, work/AI level, taste (challenge ≠ cheerleading), DNF  
 - [[Gaps and Study Paths]] — full gap map + core first-principles paths (P, K, M, T, $, L, H)
@@ -49,7 +49,7 @@ SORT file.name ASC
 - 2023: ███████ 7
 - 2024: ███ 3
 - 2025: ████ 4
-- 2026: ██ 2
+- 2026: ███ 3
 
 ## All books (Dataview)
 

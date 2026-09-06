@@ -1032,6 +1032,12 @@ books:
     language: en
     domains: [fiction, classics, politics]
     has_review: false
+  - title: "Project Hail Mary"
+    author: ["Andy Weir"]
+    dates_read: [2026-09-06]
+    language: en
+    domains: [sci-fi]
+    has_review: true
   - title: "This Changes Everything"
     author: ["Naomi Klein"]
     dates_read: []

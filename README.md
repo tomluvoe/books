@@ -2,7 +2,7 @@
 
 > Personal reading log — published as-is, not a template. Reuse under [CC BY 4.0](LICENSE).
 
-Leisure reading log (originally **Books** Google Calendar, 2005–2026), plus retrospective backfills. **171 unique books, 173 reads, 59 imported reviews**. Plain Markdown + YAML frontmatter is the source of truth; `library.yaml` is a generated compact index (regenerate or edit either — just pick one master).
+Leisure reading log (originally **Books** Google Calendar, 2005–2026), plus retrospective backfills. **172 unique books, 174 reads, 59 imported reviews**. Plain Markdown + YAML frontmatter is the source of truth; `library.yaml` is a generated compact index (regenerate or edit either — just pick one master).
 
 ## Structure
 - `Context.md` — **reader profile**: degrees, work/AI practice level, intellectual taste (challenge ≠ cheerleading), DNF, series completion. Agents must read this before recommending.

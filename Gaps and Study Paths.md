@@ -4,7 +4,7 @@ Master map of **vault leisure-reading gaps** and ordered **study paths**.
 Always read with [[Context]] (degrees, DNF, taste, AI practice level).
 
 **Last updated:** 2026-07-23 (paths reframed: first principles core only; completion-evidence rule + entry picks added; L4 minds & machines + L5 Eco axis added; favourite anchors from Context)  
-**Vault baseline:** ~171 finished · 173 reads · 1 reading · DNF noted in Context  
+**Vault baseline:** ~172 finished · 174 reads · 1 reading · DNF noted in Context  
 **This is not a syllabus for degrees.** Gaps = missing *logged leisure* that would still challenge you — not undergrad remediation.
 
 ### How paths are structured
@@ -257,7 +257,7 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 
 *First principles: what is a mind, and who owns the network?*
 
-*Not a “classic sci-fi” gap.* The shelf already covers the lineage: scientific romance (Wells ×2) → golden age (Heinlein, Clarke, Bradbury) → new wave (Dick, Herbert) → cyberpunk (*Neuromancer*, *Snow Crash*). What’s missing is everything **after** — the log freezes at *The Martian* (2017), while the same interest kept running as nonfiction (Mitnick, Snowden, *Tracers in the Dark*, *Going Infinite*). One deliberate classic-era exception below closes the Orwell loop.
+*Not a “classic sci-fi” gap.* The shelf already covers the lineage: scientific romance (Wells ×2) → golden age (Heinlein, Clarke, Bradbury) → new wave (Dick, Herbert) → cyberpunk (*Neuromancer*, *Snow Crash*). What’s missing is everything **after** — the log froze at *The Martian* (2017) until *Project Hail Mary* (2026, disliked: flat characters, message over story — see [[Context]] anti-anchor), while the same interest kept running as nonfiction (Mitnick, Snowden, *Tracers in the Dark*, *Going Infinite*). L4 is still the real thaw; more Weir is not. One deliberate classic-era exception below closes the Orwell loop.
 
 | Book | Angle if you choose it |
 |------|------------------------|

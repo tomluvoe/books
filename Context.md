@@ -68,7 +68,7 @@ Declared favourites — use as **similarity axes** when recommending, alongside 
 | **[[The Prague Cemetery]]** (Eco, 2012) | Erudite historical fiction where real history is the machinery: forgery, conspiracy, a cynical unreliable narrator, dense with actual 19th-c politics. More like this welcome **regardless of topic** — see [[Gaps and Study Paths]] **L5 (Eco axis)**. |
 | **Mars trilogy** (Kim Stanley Robinson) | Systems realism as fiction: politics, science, economics, and institutions taken seriously enough to *be* the plot. “Felt super realistic and relevant.” See **L3** KSR options. |
 
-**Planned:** *Project Hail Mary* (Weir) — vacation read, July 2026 (continues [[The Martian]] thread). Log when finished.
+**Anti-anchor:** [[Project Hail Mary]] (Weir, read 2026) — **disliked.** Superficial, stereotypical characters; story pauses for message-signalling that breaks the world's own stakes; no tension. Confirms the favourites axis from the other side: fiction must take its people and institutions seriously (KSR standard). **Weir thread closed** — do not recommend more Weir or Weir-likes (competence-porn with cardboard humans).
 
 ## Series confirmed complete
 
