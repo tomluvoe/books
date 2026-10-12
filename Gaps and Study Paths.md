@@ -560,13 +560,25 @@ Counts are approximate finished leisure logs; see MOCs for lists.
 Sized to the real throughput (~4–7 books/yr since 2019). Six slots, one tome max, ordered:
 
 1. **Hygiene first:** decide [[This Changes Everything]] — finish or DNF it *this month*. A book paused “not fully enjoying” is exactly the shape the log says never recovers. DNF is a valid, honest outcome (see Thatcher).
-2. **H-Rome:** **Holland — *Rubicon***. Duncan finished 2025-11; this continues the exact story with the narrative drive that your finish-record runs on. *(Slot 1)*
+2. **H-Rome:** **Holland — *Rubicon***. Duncan finished 2025-11; this continues the exact story with the narrative drive that your finish-record runs on. Now doubly timed: it tests Turchin's [[End Times]] model against a collapse you already know. *(Slot 1)*
 3. **P entry:** **Berlin — “Two Concepts of Liberty”** (an evening), then **Koestler — *Darkness at Noon***. Theory plus its novel — the shelf of autocracy journalism finally gets its foundations. *(Slots 2–3)*
 4. **$ theory:** **Kindleberger — *Manias, Panics, and Crashes*** — the pattern library above the crisis shelf 2022–2026 keeps feeding. *(Slot 4)*
 5. **M shot:** **Nietzsche — *Genealogy of Morals*** — three essays; the highest challenge-per-hour in the plan. *(Slot 5)*
 6. **The year’s one tome (winter):** **Dostoevsky — *Demons*** — opens Path L properly and pays off Koestler; *or* **Arendt — *Origins of Totalitarianism*** if the P shots left you wanting the full architecture. **Pick one, not both.** *(Slot 6)*
 
 Standing rules: do **not** restart Kahneman (K defaults closed); Smil (T1) is the swap-in if any slot above stalls — it restores momentum and settles the Klein question at the same time.
+
+### Bookmarked candidates (triaged 2026-10-12)
+
+Reader's own bookmarks, judged against this file and [[Context]]. Agents: respect the verdicts. Don't re-propose a **skip** as a gap-fill; a **break** title is fine when the reader asks for something easy.
+
+| Bookmark | Verdict | Why |
+|----------|---------|-----|
+| **Orwell — *Burmese Days*** | ✅ **Take** (fiction break after *Rubicon*) | Short novel about how ruling an empire corrupts the rulers: Path P as fiction. Pairs with [[Inglorious Empire]] and "Shooting an Elephant" ([[Essays]]). The one Orwell that still adds an angle. |
+| **Sorkin — *1929*** | 🟡 **Break** (comfort read, not a path step) | Squarely in the narrative-finance engine, and [[Too Big to Fail]] landed. But [[Lords of finance]] already covers the 1929 story. Best read *after* Kindleberger ($1), so it becomes the case study rather than a re-run. Use it to escape a stall. |
+| **Ghattas — *Black Wave*** | 🟡 **Sideways** | Saudi–Iran rivalry since 1979. Good narrative journalism, overlaps [[Ghost Wars]] on the same 1979 pivot. Extends a shelf you already have, fills no gap. |
+| **Michel — *Foreign Agents*** | ❌ **Skip** | Near-duplicate of [[Autocracy, Inc]]. Path P exists because the vault has plenty of autocracy journalism and no theory; this adds more journalism. |
+| **Adler-Olsen — *The Washington Decree*** | ❌ **Skip** | Long thriller (~600 pp). Its length and genre are the shape that stalls for this reader, and its characters risk the flatness that sank [[Project Hail Mary]]. Matches the post-Turchin mood but none of the taste filters. |
 
 ---
 
