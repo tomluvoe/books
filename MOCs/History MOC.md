@@ -1,6 +1,6 @@
 # History MOC
 
-21 books, chronological by date finished.
+22 books, chronological by date finished.
 
 - 2010 · [[Shakespeare]] — Bill Bryson
 - 2010 · [[The Match King]] — Frank Partnoy
@@ -23,6 +23,7 @@
 - 2022 · [[The Future is History]] — Masha Gessen
 - 2023 · [[Till Eftervärlden]] — Marianne Molander Beyer
 - 2025 · [[The Storm Before the Storm]] — Mike Duncan
+- 2026 · [[End Times]] — Peter Turchin
 
 ### Did not finish
 - [[The Downing Street Years]] — Margaret Thatcher *(~p. 540; enjoyed until repetitive)*
@@ -32,6 +33,7 @@
 Core: **Path H — Historical order** (pick **one spine**: Rome, Cold War, WWII, Revolution, China, US, IR classics).  
 Also pairs with **P**, **T**, **$**.  
 You already have late Republic only ([[The Storm Before the Storm]]) — **H-Rome** continues that thread; Cold War shelf is *fragments* until a spine book.  
+[[End Times]] (Turchin) adds a structural lens across spines — **H-Lens** tests it (Goldstone ⭐ entry; *Secular Cycles*; Ibn Khaldun).  
 Full detail: [[Gaps and Study Paths]].
 
 _See [[Gaps and Study Paths]] — **core first principles** (P, K, M, T, $, L, H). Apply [[Context]] filters._

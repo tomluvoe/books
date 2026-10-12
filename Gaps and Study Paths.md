@@ -3,8 +3,8 @@
 Master map of **vault leisure-reading gaps** and ordered **study paths**.  
 Always read with [[Context]] (degrees, DNF, taste, AI practice level).
 
-**Last updated:** 2026-07-23 (paths reframed: first principles core only; completion-evidence rule + entry picks added; L4 minds & machines + L5 Eco axis added; favourite anchors from Context)  
-**Vault baseline:** ~172 finished · 174 reads · 1 reading · DNF noted in Context  
+**Last updated:** 2026-10-12 (H-Lens added after Turchin *End Times*; paths reframed: first principles core only; completion-evidence rule + entry picks added; L4 minds & machines + L5 Eco axis added; favourite anchors from Context)  
+**Vault baseline:** ~173 finished · 175 reads · 1 reading · DNF noted in Context  
 **This is not a syllabus for degrees.** Gaps = missing *logged leisure* that would still challenge you — not undergrad remediation.
 
 ### How paths are structured
@@ -33,7 +33,7 @@ Every option has an **angle** — what kind of mind / mood / argument you get if
 
 What the log actually shows, and what it implies for how paths should be sequenced:
 
-- **What gets finished:** propulsive narrative nonfiction (Lewis ×4, Enron, LTCM, FTX, Duncan, Applebaum, Coll) and short-to-medium classics. 2022–2026 is almost entirely narrative finance/crime — that engine still runs.
+- **What gets finished:** propulsive narrative nonfiction (Lewis ×4, Enron, LTCM, FTX, Duncan, Applebaum, Coll), short-to-medium classics, and **~300-page structural arguments with a live hook** (Turchin *End Times*, 2026). 2022–2026 is almost entirely narrative finance/crime — that engine still runs.
 - **What stalls:** long books that go repetitive or slow — Thatcher (~p. 540), Rousseau (~halfway), *This Changes Everything* (paused, “not fully enjoying”), TFAS (~ch. 1). The DNF pattern is **sprawl**, not difficulty: density is fine, repetition and length without drive are not.
 - **Throughput:** ~10–15 books/yr in 2006–2013 → **~3–7/yr since 2019**. A year of reading now buys **4–6 path steps total across all paths.** Plan accordingly.
 
@@ -286,6 +286,7 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 *First principles of how polities rise, rigidify, and break — via long arcs, not topic tourism*
 
 *You have (thematic, not spines):* Sapiens; Iron Curtain / Snyder / Gessen; empire critique (Tharoor, silk roads, cheap things); Swedish famine; 1918 flu; *Lords of Finance*; CIA / Ghost Wars; **Mike Duncan *The Storm Before the Storm*** (late Roman Republic only); Thatcher DNF partial.  
+*You now also have a **lens**:* **[[End Times]] (Turchin, 2026-10, liked — "an eye-opener")** — structural-demographic theory: elite overproduction, popular immiseration, the wealth pump, state fiscal breakdown. Cross-spine: read whichever spine you pick through it.  
 *Economic history degree:* covers survey industrialization/institutions — **not** a substitute for deep narrative spines as leisure.  
 **Rule:** Choose **one** spine below. Finish 2–3 serious books in that spine before starting another. No “history of everything” lists.
 
@@ -300,6 +301,19 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 | **H-China** | Continuous state, rupture, and modern power | China debt, silk roads edges — not Chinese history | Deep civilizational/political history, not business briefing |
 | **H-US** | Constitutional order, conflict, empire at home | Thin as leisure despite US-centric finance/politics reading | Founding → Civil War → New Deal / rights — pick a sub-arc |
 | **H-IR classics** | Interstate power as permanent problem | Geopolitics journalism only | Thucydides / classical strategy as *argument*, not briefing lite |
+
+**Turchin tilt (2026-10):** *End Times* makes **H-Rome** stronger, not weaker — the late Republic is Turchin's textbook case of elite overproduction, and Duncan already gave you the narrative. Holland *Rubicon* next lets you test the model against a story you half-know.
+
+#### H-Lens — Testing the structural-demographic model (optional, cross-spine)
+
+*First principle:* are there laws of political disintegration, or only good stories? *End Times* is the popular argument; these go to the source, the data, or the rival — so the next read **challenges** the model rather than repeating it.
+
+| Book | Angle if you choose it |
+|------|------------------------|
+| **Goldstone — *Revolution and Rebellion in the Early Modern World*** ⭐ *entry* | **The original theory.** The structural-demographic model Turchin builds on, applied to the English Revolution, the Ottoman crises, and Ming China. Academic, dense, unflattering — the real thing. |
+| **Turchin & Nefedov — *Secular Cycles*** | **The data.** Eight cycles (Plantagenet and Tudor England, Capetian and Valois France, Republican and Principate Rome, Muscovy) measured, not narrated. Dry; read selectively by case. Pairs with **H-Rome**. |
+| **Ibn Khaldun — *The Muqaddimah*** (abridged) | **The 14th-century ancestor.** Asabiyyah: how cohesion builds dynasties and luxury dissolves them in four generations. Primary text; Turchin openly owes him. |
+| **Turchin — *Ages of Discord*** | **The US case in numbers.** The quantitative book behind *End Times*' American chapters. Only if you want the receipts — it repeats the conclusion. |
 
 **Default recommendation if undecided:** **H-Rome**. Duncan was finished 2025-11 — the most recent serious history in the log, and it *was* finished. That is live momentum; spend it before it cools. **H-Cold War** is the alternate (unifies the shelf you actually use).
 
@@ -388,7 +402,7 @@ Physics degree covers intro mechanics/relativity; this is **civilizational const
 | **T — Technique & material constraint** | What binds the built world? | Smil scale vs Smil energy-history; then Ellul vs Winner vs Wiener |
 | **$ — Money & instability** | Why do financial systems blow up? | Kindleberger patterns vs Tooze system-map vs Minsky endogenous |
 | **L — Literature as primary knowledge** | Which forms teach what theory can’t? | Demons possession vs Karamazov soul-court; Sebald/Camus/Mann; **L4** minds & machines (Watts/Chiang/Gibson/Zamyatin); **L5** Eco axis (*Foucault’s Pendulum*, favourite-anchored) |
-| **H — Historical order** | How do polities rise and break? | **Pick one spine:** Rome / Cold War / WWII / Revolution / China / US / IR classics |
+| **H — Historical order** | How do polities rise and break? | **Pick one spine:** Rome / Cold War / WWII / Revolution / China / US / IR classics; **H-Lens** (Goldstone / *Secular Cycles* / Ibn Khaldun) tests Turchin across spines |
 
 ### Legacy IDs (old → new)
 

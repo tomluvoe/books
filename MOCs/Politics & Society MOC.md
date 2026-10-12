@@ -1,6 +1,6 @@
 # Politics & Society MOC
 
-20 books, chronological by date finished.
+21 books, chronological by date finished.
 
 - ~2002 · [[Nineteen Eighty-Four]] — George Orwell *(approx.; studies era)*
 - 2007 · [[Rights of Man]] — Thomas Paine
@@ -22,6 +22,7 @@
 - 2022 · [[The Future is History]] — Masha Gessen
 - 2025 · [[Autocracy, Inc]] — Anne Applebaum
 - 2026 · [[Animal Farm]] — George Orwell
+- 2026 · [[End Times]] — Peter Turchin
 
 ### Currently reading
 - [[This Changes Everything]] — Naomi Klein *(in progress)*

@@ -1038,6 +1038,12 @@ books:
     language: en
     domains: [sci-fi]
     has_review: true
+  - title: "End Times"
+    author: ["Peter Turchin"]
+    dates_read: [2026-10-12]
+    language: en
+    domains: [history, politics]
+    has_review: true
   - title: "This Changes Everything"
     author: ["Naomi Klein"]
     dates_read: []
